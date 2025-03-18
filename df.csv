@@ -1,0 +1,1001 @@
+"",name,year,genre,runtime,rating,metascore,director,votes,gross,top
+0,Skazani na Shawshank,(1994),Drama,142 min,9.3,82,Frank Darabont,2810328,28.34M,1
+1,Ojciec chrzestny,(1972),"Crime, Drama",175 min,9.2,100,Francis Ford Coppola,1958457,134.97M,2
+2,Mroczny Rycerz,(2008),"Action, Crime, Drama",152 min,9.0,84,Christopher Nolan,2791957,534.86M,3
+3,Lista Schindlera,(1993),"Biography, Drama, History",195 min,9.0,95,Steven Spielberg,1412721,96.90M,6
+4,Władca Pierścieni: Powrót króla,(2003),"Action, Adventure, Drama",201 min,9.0,94,Peter Jackson,1923941,377.85M,7
+5,Dwunastu gniewnych ludzi,(1957),"Crime, Drama",96 min,9.0,97,Sidney Lumet,836733,4.36M,5
+6,Ojciec chrzestny II,(1974),"Crime, Drama",202 min,9.0,90,Francis Ford Coppola,1329815,57.30M,4
+7,Pulp Fiction,(1994),"Crime, Drama",154 min,8.9,95,Quentin Tarantino,2155174,107.93M,8
+8,Podziemny krąg,(1999),Drama,139 min,8.8,67,David Fincher,2244790,37.03M,12
+9,Incepcja,(2010),"Action, Adventure, Sci-Fi",148 min,8.8,74,Christopher Nolan,2477973,292.58M,14
+10,Władca Pierścieni: Drużyna Pierścienia,(2001),"Action, Adventure, Drama",178 min,8.8,92,Peter Jackson,1951884,315.54M,9
+11,Forrest Gump,(1994),"Drama, Romance",142 min,8.8,82,Robert Zemeckis,2187805,330.25M,11
+12,"Dobry, zły i brzydki",(1966),"Adventure, Western",161 min,8.8,90,Sergio Leone,792135,6.10M,10
+13,Władca Pierścieni: Dwie wieże,(2002),"Action, Adventure, Drama",179 min,8.8,87,Peter Jackson,1735714,342.55M,13
+14,Jai Bhim,(2021),"Crime, Drama, Mystery",164 min,8.8,None,T.J. Gnanavel,211272,None,219
+15,777 Charlie,(2022),"Adventure, Comedy, Drama",164 min,8.8,None,Kiranraj K,37150,None,None
+16,Spider-Man: Poprzez multiwersum,(2023),"Animation, Action, Adventure",140 min,8.7,86,None,278690,None,22
+17,Interstellar,(2014),"Adventure, Drama, Sci-Fi",169 min,8.7,74,Christopher Nolan,2001655,188.02M,23
+18,Chłopcy z ferajny,(1990),"Biography, Crime, Drama",145 min,8.7,92,Martin Scorsese,1220045,46.84M,17
+19,Matrix,(1999),"Action, Sci-Fi",136 min,8.7,73,None,1998039,171.48M,16
+20,Lot nad kukułczym gniazdem,(1975),Drama,133 min,8.7,84,Milos Forman,1046989,112.00M,18
+21,Gwiezdne wojny: Część V - Imperium kontratakuje,(1980),"Action, Adventure, Fantasy",124 min,8.7,82,Irvin Kershner,1346733,290.48M,15
+22,Rocketry: The Nambi Effect,(2022),"Biography, Drama",157 min,8.7,None,Madhavan,55778,None,None
+23,Soorarai Pottru,(2020),"Action, Drama",153 min,8.7,None,Sudha Kongara,121194,None,None
+24,Milczenie owiec,(1991),"Crime, Drama, Thriller",118 min,8.6,86,Jonathan Demme,1501007,130.74M,24
+25,Siedem,(1995),"Crime, Drama, Mystery",127 min,8.6,65,David Fincher,1741690,100.13M,19
+26,Szeregowiec Ryan,(1998),"Drama, War",169 min,8.6,91,Steven Spielberg,1455672,216.54M,25
+27,Gwiezdne wojny,(1977),"Action, Adventure, Fantasy",121 min,8.6,90,George Lucas,1418115,322.74M,29
+28,Zielona mila,(1999),"Crime, Drama, Fantasy",189 min,8.6,61,Frank Darabont,1366492,136.80M,28
+29,Terminator 2: Dzień Sądu,(1991),"Action, Sci-Fi",137 min,8.6,75,James Cameron,1145709,204.84M,30
+30,Spirited Away: W krainie bogów,(2001),"Animation, Adventure, Family",125 min,8.6,96,Hayao Miyazaki,814160,10.06M,32
+31,Miasto Boga,(2002),"Crime, Drama",130 min,8.6,79,None,784028,7.56M,26
+32,Życie jest piękne,(1997),"Comedy, Drama, Romance",116 min,8.6,59,Roberto Benigni,725196,57.60M,27
+33,To wspaniałe życie,(1946),"Drama, Family, Fantasy",130 min,8.6,89,Frank Capra,480638,None,20
+34,Siedmiu samurajów,(1954),"Action, Drama",207 min,8.6,98,Akira Kurosawa,359171,0.27M,21
+35,Harakiri,(1962),"Action, Drama, Mystery",133 min,8.6,85,Masaki Kobayashi,64423,None,45
+36,Sita Ramam,(2022),"Action, Drama, Mystery",163 min,8.6,None,Hanu Raghavapudi,63558,None,None
+37,Oppenheimer,(I) (2023),"Biography, Drama, History",180 min,8.5,88,Christopher Nolan,463896,None,47
+38,Obcy - 8. pasażer \'\'Nostromo\'\',(1979),"Horror, Sci-Fi",117 min,8.5,89,Ridley Scott,923364,78.90M,53
+39,Gladiator,(2000),"Action, Adventure, Drama",155 min,8.5,67,Ridley Scott,1569571,187.71M,36
+40,Infiltracja,(2006),"Crime, Drama, Thriller",151 min,8.5,85,Martin Scorsese,1385300,132.38M,40
+41,Parasite,(2019),"Drama, Thriller",132 min,8.5,96,Bong Joon Ho,895496,53.37M,35
+42,Prestiż,(2006),"Drama, Mystery, Sci-Fi",130 min,8.5,66,Christopher Nolan,1402047,53.09M,42
+43,Powrót do przyszłości,(1985),"Adventure, Comedy, Sci-Fi",116 min,8.5,87,Robert Zemeckis,1268695,210.61M,31
+44,Whiplash,(2014),"Drama, Music",106 min,8.5,89,Damien Chazelle,938146,13.09M,41
+45,Django,(2012),"Drama, Western",165 min,8.5,81,Quentin Tarantino,1642075,162.81M,57
+46,Psychoza,(1960),"Horror, Mystery, Thriller",109 min,8.5,97,Alfred Hitchcock,701720,32.00M,34
+47,Leon zawodowiec,(1994),"Action, Crime, Drama",110 min,8.5,64,Luc Besson,1213488,19.50M,38
+48,Podejrzani,(1995),"Crime, Drama, Mystery",106 min,8.5,77,Bryan Singer,1122292,23.34M,43
+49,Król lew,(1994),"Animation, Adventure, Drama",88 min,8.5,88,None,1110264,422.78M,37
+50,Więzień nienawiści,(1998),"Crime, Drama",119 min,8.5,62,Tony Kaye,1162023,6.72M,39
+51,Pianista,(2002),"Biography, Drama, Music",150 min,8.5,85,Roman Polanski,882244,32.57M,33
+52,Nietykalni,(2011),"Biography, Comedy, Drama",112 min,8.5,57,None,901958,13.18M,48
+53,Casablanca,(1942),"Drama, Romance, War",102 min,8.5,100,Michael Curtiz,593636,1.02M,46
+54,Okno na podwórze,(1954),"Mystery, Thriller",112 min,8.5,100,Alfred Hitchcock,510726,36.76M,52
+55,Grobowiec świetlików,(1988),"Animation, Drama, War",89 min,8.5,94,Isao Takahata,297422,None,44
+56,Pewnego razu na Dzikim Zachodzie,(1968),Western,165 min,8.5,82,Sergio Leone,342608,5.32M,51
+57,Cinema Paradiso,(1988),"Drama, Romance",155 min,8.5,80,Giuseppe Tornatore,275015,11.99M,50
+58,Dzisiejsze czasy,(1936),"Comedy, Drama, Romance",87 min,8.5,96,Charles Chaplin,253472,0.16M,49
+59,96,(II) (2018),"Drama, Romance",158 min,8.5,None,C. Prem Kumar,34586,None,None
+60,Światła wielkiego miasta,(1931),"Comedy, Drama, Romance",87 min,8.5,99,Charles Chaplin,192007,0.02M,54
+61,Lśnienie,(1980),"Drama, Horror",146 min,8.4,66,Stanley Kubrick,1075241,44.02M,64
+62,Joker,(I) (2019),"Crime, Drama, Thriller",122 min,8.4,59,Todd Phillips,1411435,335.45M,80
+63,Bękarty wojny,(2009),"Adventure, Drama, War",153 min,8.4,69,Quentin Tarantino,1531888,120.54M,69
+64,Avengers: Koniec gry,(2019),"Action, Adventure, Drama",181 min,8.4,78,None,1220345,858.37M,79
+65,Idź i patrz,(1985),"Drama, Thriller, War",142 min,8.4,None,Elem Klimov,90844,None,91
+66,Oldboy,(2003),"Action, Drama, Mystery",120 min,8.4,78,Park Chan-wook,613997,0.71M,73
+67,Mroczny Rycerz powstaje,(2012),"Action, Drama, Thriller",164 min,8.4,78,Christopher Nolan,1782291,448.14M,70
+68,Obcy 2 - decydujące starcie,(1986),"Action, Adventure, Sci-Fi",137 min,8.4,84,James Cameron,745604,85.16M,68
+69,Czas Apokalipsy,(1979),"Drama, Mystery, War",147 min,8.4,94,Francis Ford Coppola,694228,83.47M,55
+70,Spider-Man Uniwersum,(2018),"Animation, Action, Adventure",117 min,8.4,87,None,634646,190.24M,67
+71,Memento,(2000),"Mystery, Thriller",113 min,8.4,83,Christopher Nolan,1291608,25.54M,56
+72,Coco,(I) (2017),"Animation, Adventure, Drama",105 min,8.4,81,None,559158,209.73M,74
+73,Poszukiwacze zaginionej Arki,(1981),"Action, Adventure",115 min,8.4,86,Steven Spielberg,1016027,248.16M,58
+74,Avengers: Wojna bez granic,(2018),"Action, Adventure, Sci-Fi",149 min,8.4,68,None,1160963,678.82M,63
+75,Amadeusz,(1984),"Biography, Drama, Music",160 min,8.4,87,Milos Forman,418527,51.97M,75
+76,Trzej idioci,(2009),"Comedy, Drama",170 min,8.4,67,Rajkumar Hirani,419954,6.53M,85
+77,Twoje imię.,(2016),"Animation, Drama, Fantasy",106 min,8.4,81,Makoto Shinkai,301390,5.02M,83
+78,WALL·E,(2008),"Animation, Adventure, Family",98 min,8.4,95,Andrew Stanton,1168440,223.81M,59
+79,Życie na podsłuchu,(2006),"Drama, Mystery, Thriller",137 min,8.4,89,Florian Henckel von Donnersmarck,402478,11.29M,60
+80,"Dr Strangelove, czyli jak przestałem się martwić i pokochałem bombę",(1964),"Comedy, War",95 min,8.4,97,Stanley Kubrick,508067,0.28M,72
+81,Kafarnaum,(2018),Drama,126 min,8.4,75,Nadine Labaki,99888,1.66M,88
+82,Okręt,(1981),"Drama, War",149 min,8.4,86,Wolfgang Petersen,259534,11.49M,77
+83,Bulwar Zachodzącego Słońca,(1950),"Drama, Film-Noir",110 min,8.4,94,Billy Wilder,231215,None,61
+84,Ścieżki chwały,(1957),"Drama, War",88 min,8.4,90,Stanley Kubrick,206999,None,62
+85,Świadek oskarżenia,(1957),"Crime, Drama, Mystery",116 min,8.4,76,Billy Wilder,133096,8.18M,66
+86,Dyktator,(1940),"Comedy, Drama, War",125 min,8.4,None,Charles Chaplin,232743,0.29M,65
+87,Kaithi,(2019),"Action, Adventure, Crime",145 min,8.4,None,Lokesh Kanagaraj,38516,None,None
+88,Niebo i piekło,(1963),"Crime, Drama, Mystery",143 min,8.4,90,Akira Kurosawa,50192,None,86
+89,Sardar Udham,(2021),"Biography, Crime, Drama",164 min,8.4,None,Shoojit Sircar,45414,None,None
+90,Asuran,(2019),"Action, Drama",141 min,8.4,None,Vetrimaaran,32234,None,None
+91,Drishyam 2,(2021),"Crime, Drama, Thriller",152 min,8.4,None,Jeethu Joseph,39836,None,None
+92,Top Gun: Maverick,(2022),"Action, Drama",130 min,8.3,78,Joseph Kosinski,635821,718.73M,129
+93,American Beauty,(1999),Drama,122 min,8.3,84,Sam Mendes,1189099,130.10M,71
+94,Gorączka,(1995),"Action, Crime, Drama",170 min,8.3,76,Michael Mann,696244,67.44M,110
+95,Requiem dla snu,(2000),Drama,102 min,8.3,71,Darren Aronofsky,877936,3.64M,89
+96,Człowiek z blizną,(1983),"Crime, Drama",170 min,8.3,65,Brian De Palma,888711,45.60M,106
+97,Buntownik z wyboru,(1997),"Drama, Romance",126 min,8.3,70,Gus Van Sant,1026910,138.43M,82
+98,Mechaniczna pomarańcza,(1971),"Crime, Sci-Fi",136 min,8.3,77,Stanley Kubrick,862614,6.21M,108
+99,Zakochany bez pamięci,(2004),"Drama, Romance, Sci-Fi",108 min,8.3,89,Michel Gondry,1049825,34.40M,93
+100,2001: Odyseja kosmiczna,(1968),"Adventure, Sci-Fi",149 min,8.3,84,Stanley Kubrick,701065,56.95M,94
+101,Polowanie,(2012),Drama,115 min,8.3,77,Thomas Vinterberg,351712,0.69M,95
+102,Braveheart - Waleczne Serce,(1995),"Biography, Drama, History",178 min,8.3,68,Mel Gibson,1071179,75.60M,78
+103,Wściekłe psy,(1992),"Crime, Thriller",99 min,8.3,81,Quentin Tarantino,1062856,2.83M,96
+104,Toy Story,(1995),"Animation, Adventure, Comedy",81 min,8.3,96,John Lasseter,1041233,191.80M,76
+105,Hamilton,(2020),"Biography, Drama, History",160 min,8.3,88,Thomas Kail,106990,None,112
+106,Dawno temu w Ameryce,(1984),"Crime, Drama",229 min,8.3,75,Sergio Leone,368182,5.32M,84
+107,Full Metal Jacket,(1987),"Drama, War",116 min,8.3,78,Stanley Kubrick,772677,46.36M,107
+108,Toy Story 3,(2010),"Animation, Adventure, Comedy",103 min,8.3,92,Lee Unkrich,872428,415.00M,90
+109,Odlot,(2009),"Animation, Adventure, Comedy",96 min,8.3,88,None,1094480,293.00M,111
+110,Gwiezdne wojny: Część VI - Powrót Jedi,(1983),"Action, Adventure, Fantasy",131 min,8.3,58,Richard Marquand,1096776,309.13M,92
+111,Pogorzelisko,(2010),"Drama, Mystery, War",131 min,8.3,80,Denis Villeneuve,190336,6.86M,109
+112,Amelia,(2001),"Comedy, Romance",122 min,8.3,69,Jean-Pierre Jeunet,780249,33.23M,105
+113,Lawrence z Arabii,(1962),"Adventure, Biography, Drama",218 min,8.3,100,David Lean,306683,44.82M,98
+114,Księżniczka Mononoke,(1997),"Animation, Action, Adventure",134 min,8.3,76,Hayao Miyazaki,417687,2.38M,81
+115,Zawrót głowy,(1958),"Mystery, Romance, Thriller",128 min,8.3,100,Alfred Hitchcock,417960,3.20M,103
+116,Vikram,(2022),"Action, Crime, Thriller",175 min,8.3,None,Lokesh Kanagaraj,67970,None,None
+117,Obywatel Kane,(1941),"Drama, Mystery",119 min,8.3,100,Orson Welles,457498,1.59M,99
+118,Zabić drozda,(1962),"Crime, Drama",129 min,8.3,88,Robert Mulligan,327043,None,113
+119,Metropolis,(1927),"Drama, Sci-Fi",153 min,8.3,98,Fritz Lang,181424,1.24M,117
+120,Deszczowa piosenka,(1952),"Comedy, Musical, Romance",103 min,8.3,99,None,254118,8.82M,87
+121,M - morderca,(1931),"Crime, Mystery, Thriller",117 min,8.3,None,Fritz Lang,164827,0.03M,100
+122,Północ - północny zachód,(1959),"Action, Adventure, Mystery",136 min,8.3,98,Alfred Hitchcock,339608,13.28M,102
+123,Żądło,(1973),"Comedy, Crime, Drama",129 min,8.3,83,George Roy Hill,273612,159.60M,114
+124,Wyrok w Norymberdze,(1961),"Drama, War",179 min,8.3,60,Stanley Kramer,82296,None,136
+125,Dangal,(2016),"Action, Biography, Drama",161 min,8.3,None,Nitesh Tiwari,202699,12.39M,126
+126,Garsoniera,(1960),"Comedy, Drama, Romance",125 min,8.3,94,Billy Wilder,190958,18.60M,101
+127,Rozstanie,(2011),Drama,123 min,8.3,95,Asghar Farhadi,253578,7.10M,115
+128,Piętno śmierci,(1952),Drama,143 min,8.3,92,Akira Kurosawa,84434,0.06M,97
+129,Podwójne ubezpieczenie,(1944),"Crime, Drama, Film-Noir",107 min,8.3,95,Billy Wilder,163798,5.72M,104
+130,Gwiazdy na ziemi,(2007),"Drama, Family",162 min,8.3,None,None,202174,1.22M,119
+131,Złodzieje rowerów,(1948),Drama,89 min,8.3,None,Vittorio De Sica,170957,0.33M,121
+132,Ratsasan,(2018),"Action, Crime, Drama",170 min,8.3,None,Ram Kumar,48545,None,None
+133,K.G.F: Chapter 2,(2022),"Action, Crime, Drama",166 min,8.3,None,Prashanth Neel,143548,6.60M,None
+134,Ayla. Córka wojny,(2017),"Biography, Drama, History",125 min,8.3,None,Can Ulkay,42555,None,None
+135,Chhichhore,(2019),"Comedy, Drama, Romance",143 min,8.3,None,Nitesh Tiwari,60278,2.00M,None
+136,Shershaah,(2021),"Action, Biography, Drama",135 min,8.3,None,Vishnuvardhan,126822,None,None
+137,Drishyam,(2013),"Crime, Drama, Thriller",160 min,8.3,None,Jeethu Joseph,43189,None,None
+138,Wilk z Wall Street,(2013),"Biography, Comedy, Crime",180 min,8.2,75,Martin Scorsese,1518176,116.90M,132
+139,Coś,(1982),"Horror, Mystery, Sci-Fi",109 min,8.2,57,John Carpenter,450299,13.78M,152
+140,To nie jest kraj dla starych ludzi,(2007),"Crime, Drama, Thriller",122 min,8.2,92,None,1027503,74.28M,149
+141,Taksówkarz,(1976),"Crime, Drama",114 min,8.2,94,Martin Scorsese,889854,28.26M,123
+142,Spider-Man: Bez drogi do domu,(2021),"Action, Adventure, Fantasy",148 min,8.2,71,Jon Watts,837005,804.75M,166
+143,Park Jurajski,(1993),"Action, Adventure, Sci-Fi",127 min,8.2,68,Steven Spielberg,1038439,402.45M,144
+144,Wyspa tajemnic,(2010),"Mystery, Thriller",138 min,8.2,63,Martin Scorsese,1402533,128.01M,141
+145,Szósty zmysł,(1999),"Drama, Mystery, Thriller",107 min,8.2,64,M. Night Shyamalan,1027666,293.51M,143
+146,Kill Bill,(2003),"Action, Crime, Thriller",111 min,8.2,69,Quentin Tarantino,1162689,70.10M,150
+147,Piękny umysł,(2001),"Biography, Drama",135 min,8.2,72,Ron Howard,965806,170.74M,146
+148,Batman - Początek,(2005),"Action, Crime, Drama",140 min,8.2,70,Christopher Nolan,1539736,206.85M,128
+149,Szklana pułapka,(1988),"Action, Thriller",132 min,8.2,72,John McTiernan,915161,83.01M,118
+150,Aż poleje się krew,(2007),Drama,158 min,8.2,93,Paul Thomas Anderson,621839,40.22M,138
+151,Truman Show,(1998),"Comedy, Drama",103 min,8.2,90,Peter Weir,1151926,125.62M,137
+152,Przekręt,(2000),"Comedy, Crime",104 min,8.2,55,Guy Ritchie,889089,30.33M,120
+153,1917,(2019),"Action, Drama, War",119 min,8.2,78,Sam Mendes,645654,159.23M,124
+154,Ruchomy zamek Hauru,(2004),"Animation, Adventure, Family",119 min,8.2,82,Hayao Miyazaki,426970,4.71M,158
+155,V jak vendetta,(2005),"Action, Drama, Sci-Fi",132 min,8.2,62,James McTeigue,1157320,70.51M,161
+156,Labirynt fauna,(2006),"Drama, Fantasy, War",118 min,8.2,98,Guillermo del Toro,690593,37.63M,142
+157,Kasyno,(1995),"Crime, Drama",178 min,8.2,73,Martin Scorsese,547636,42.44M,139
+158,Green Book,(2018),"Biography, Comedy, Drama",130 min,8.2,69,Peter Farrelly,538714,85.08M,134
+159,Gdzie jest Nemo?,(2003),"Animation, Adventure, Comedy",100 min,8.2,90,None,1087034,380.84M,155
+160,Tajemnice Los Angeles,(1997),"Crime, Drama, Mystery",138 min,8.2,91,Curtis Hanson,603084,64.62M,122
+161,Indiana Jones i ostatnia krucjata,(1989),"Action, Adventure",127 min,8.2,65,Steven Spielberg,794035,197.17M,116
+162,Ojciec,(I) (2020),"Drama, Mystery",97 min,8.2,88,Florian Zeller,179067,None,133
+163,Upadek,(2004),"Biography, Drama, History",156 min,8.2,82,Oliver Hirschbiegel,367997,5.51M,125
+164,Wielka ucieczka,(1963),"Adventure, Drama, History",172 min,8.2,86,John Sturges,253768,12.10M,153
+165,Przeminęło z wiatrem,(1939),"Drama, Romance, War",238 min,8.2,97,None,327497,198.68M,160
+166,Bez przebaczenia,(1992),"Drama, Western",130 min,8.2,85,Clint Eastwood,427489,101.16M,145
+167,Chinatown,(1974),"Drama, Mystery, Thriller",130 min,8.2,92,Roman Polanski,341152,None,157
+168,Sekret jej oczu,(2009),"Drama, Mystery, Romance",129 min,8.2,80,Juan José Campanella,217807,6.39M,165
+169,Monty Python i Święty Graal,(1975),"Adventure, Comedy, Fantasy",91 min,8.2,91,None,559921,1.23M,151
+170,"Pół żartem, pół serio",(1959),"Comedy, Music, Romance",121 min,8.2,98,Billy Wilder,277766,25.00M,130
+171,Człowiek słoń,(1980),"Biography, Drama",124 min,8.2,78,David Lynch,252697,None,156
+172,Ran,(1985),"Action, Drama, War",160 min,8.2,97,Akira Kurosawa,132473,4.14M,140
+173,Za kilka dolarów więcej,(1965),"Drama, Western",132 min,8.2,74,Sergio Leone,268002,15.00M,127
+174,Klaus,(2019),"Animation, Adventure, Comedy",96 min,8.2,65,None,172717,None,177
+175,Tumbbad,(2018),"Drama, Fantasy, Horror",104 min,8.2,None,None,55788,None,None
+176,M jak morderstwo,(1954),"Crime, Thriller",105 min,8.2,75,Alfred Hitchcock,184351,0.01M,159
+177,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,(2020),"Animation, Action, Adventure",117 min,8.2,72,Haruo Sotozaki,68488,47.70M,None
+178,Drishyam 2,(2022),"Crime, Drama, Mystery",140 min,8.2,None,Abhishek Pathak,40870,None,None
+179,Wszystko o Ewie,(1950),Drama,138 min,8.2,98,Joseph L. Mankiewicz,136148,0.01M,135
+180,Rashomon,(1950),"Crime, Drama, Mystery",88 min,8.2,98,Akira Kurosawa,176166,0.10M,154
+181,Drishyam: pozory mylą,(2015),"Crime, Drama, Mystery",163 min,8.2,None,Nishikant Kamat,91252,0.74M,None
+182,Gangi z Wasseypur,(2012),"Action, Comedy, Crime",321 min,8.2,89,Anurag Kashyap,101157,None,None
+183,Andhadhun,(2018),"Crime, Mystery, Thriller",139 min,8.2,None,Sriram Raghavan,99381,1.37M,None
+184,Straż przyboczna,(1961),"Action, Drama, Thriller",110 min,8.2,93,Akira Kurosawa,128359,None,148
+185,Dzieci niebios,(1997),"Drama, Family, Sport",89 min,8.2,77,Majid Majidi,78554,0.93M,179
+186,Cud w celi nr 7,(2019),Drama,132 min,8.2,None,Mehmet Ada Öztekin,53380,None,None
+187,Mój kraj,(2004),"Drama, Musical",210 min,8.2,None,Ashutosh Gowariker,95629,1.22M,None
+188,Skarb Sierra Madre,(1948),"Adventure, Drama, Western",126 min,8.2,98,John Huston,130071,5.01M,147
+189,Cena strachu,(1953),"Adventure, Drama, Thriller",131 min,8.2,85,Henri-Georges Clouzot,64683,None,197
+190,Być albo nie być,(1942),"Comedy, Romance, War",99 min,8.2,86,Ernst Lubitsch,41148,None,231
+191,Brzdąc,(1921),"Comedy, Drama, Family",68 min,8.2,None,Charles Chaplin,131909,5.45M,131
+192,Droga do miasta,(1955),Drama,125 min,8.2,None,Satyajit Ray,36537,0.54M,242
+193,Z,(1969),"Crime, Drama, Thriller",127 min,8.2,86,Costa-Gavras,30622,0.08M,None
+194,Mój ojciec i mój syn,(2005),"Drama, Family",112 min,8.2,None,Çagan Irmak,90172,None,232
+195,Vikram Vedha,(2017),"Action, Crime, Drama",147 min,8.2,None,None,49144,None,None
+196,K.G.F: Chapter 1,(2018),"Action, Crime, Drama",154 min,8.2,None,Prashanth Neel,94435,None,None
+197,Żyje się tylko raz,(2011),"Comedy, Drama, Musical",155 min,8.2,None,Zoya Akhtar,83432,3.11M,None
+198,Kantara,(2022),"Action, Adventure, Drama",148 min,8.2,None,Rishab Shetty,98631,None,None
+199,Bahubali: Final,(2017),"Action, Drama",167 min,8.2,None,S.S. Rajamouli,109899,20.19M,None
+200,Uri: The Surgical Strike,(2019),"Action, Drama, History",138 min,8.2,None,Aditya Dhar,69433,4.19M,None
+201,Młody Sherlock Holmes,(1924),"Action, Comedy, Romance",45 min,8.2,None,Buster Keaton,54478,0.98M,198
+202,Dersu Uzała,(1975),"Adventure, Biography, Drama",142 min,8.2,None,Akira Kurosawa,32589,None,None
+203,Umberto D.,(1952),Drama,89 min,8.2,92,Vittorio De Sica,27441,0.07M,None
+204,Rangasthalam,(2018),"Action, Drama",170 min,8.2,None,Sukumar,26716,3.51M,None
+205,Bhaag Milkha Bhaag,(2013),"Biography, Drama, Sport",186 min,8.2,None,Rakeysh Omprakash Mehra,70877,1.63M,None
+206,Paan Singh Tomar,(2012),"Action, Biography, Crime",135 min,8.2,None,Tigmanshu Dhulia,37414,0.04M,None
+207,Egzorcysta,(1973),Horror,122 min,8.1,82,William Friedkin,439187,232.91M,225
+208,Labirynt,(2013),"Crime, Drama, Mystery",153 min,8.1,70,Denis Villeneuve,775309,61.00M,164
+209,Zaginiona dziewczyna,(2014),"Drama, Mystery, Thriller",149 min,8.1,79,David Fincher,1034286,167.77M,186
+210,Łowca androidów,(1982),"Action, Drama, Sci-Fi",117 min,8.1,84,Ridley Scott,803076,32.87M,180
+211,Mad Max: Na drodze gniewu,(2015),"Action, Adventure, Sci-Fi",120 min,8.1,90,George Miller,1052465,154.06M,200
+212,Stań przy mnie,(1986),"Adventure, Comedy, Drama",89 min,8.1,75,Rob Reiner,428727,52.29M,223
+213,Piraci z Karaibów: Klątwa \'\'Czarnej Perły\'\',(2003),"Action, Adventure, Fantasy",143 min,8.1,63,Gore Verbinski,1178583,305.41M,228
+214,Le Mans \'66,(2019),"Action, Biography, Drama",152 min,8.1,81,James Mangold,440418,117.62M,207
+215,Szczęki,(1975),"Adventure, Mystery, Thriller",124 min,8.1,87,Steven Spielberg,642674,260.00M,203
+216,"Złap mnie, jeśli potrafisz",(2002),"Biography, Crime, Drama",141 min,8.1,75,Steven Spielberg,1053556,164.62M,174
+217,Służąca,(2016),"Drama, Romance, Thriller",145 min,8.1,85,Park Chan-wook,164036,2.01M,234
+218,Harry Potter i Insygnia Śmierci: Część II,(2011),"Adventure, Family, Fantasy",130 min,8.1,85,David Yates,920870,381.01M,178
+219,Grand Budapest Hotel,(2014),"Adventure, Comedy, Crime",99 min,8.1,88,Wes Anderson,861788,59.10M,183
+220,Big Lebowski,(1998),"Comedy, Crime",117 min,8.1,71,None,840889,17.50M,209
+221,Przełęcz ocalonych,(2016),"Biography, Drama, History",139 min,8.1,71,Mel Gibson,570760,67.21M,189
+222,Terminator,(1984),"Action, Sci-Fi",107 min,8.1,84,James Cameron,902980,38.40M,218
+223,Służące,(2011),Drama,146 min,8.1,62,Tate Taylor,481173,169.71M,245
+224,Wszystko za życie,(2007),"Adventure, Biography, Drama",148 min,8.1,73,Sean Penn,644935,18.35M,229
+225,Ratatuj,(2007),"Animation, Adventure, Comedy",111 min,8.1,96,None,792243,206.45M,211
+226,Stowarzyszenie Umarłych Poetów,(1989),"Comedy, Drama",128 min,8.1,79,Peter Weir,524789,95.86M,199
+227,Fargo,(1996),"Crime, Thriller",98 min,8.1,86,None,705226,24.61M,171
+228,Łowca jeleni,(1978),"Drama, War",183 min,8.1,86,Michael Cimino,353653,48.98M,193
+229,Czarnoksiężnik z Oz,(1939),"Adventure, Family, Fantasy",102 min,8.1,92,None,418014,2.08M,227
+230,W głowie się nie mieści,(I) (2015),"Animation, Adventure, Comedy",95 min,8.1,94,None,757384,356.46M,167
+231,Trainspotting,(1996),Drama,93 min,8.1,83,Danny Boyle,711554,16.50M,170
+232,Porachunki,(1998),"Action, Comedy, Crime",107 min,8.1,66,Guy Ritchie,604276,3.90M,163
+233,Pokój,(I) (2015),"Drama, Thriller",118 min,8.1,86,Lenny Abrahamson,439779,14.68M,208
+234,"Trzy billboardy za Ebbing, Missouri",(2017),"Comedy, Crime, Drama",115 min,8.1,88,Martin McDonagh,538296,54.51M,168
+235,Zagadka zbrodni,(2003),"Crime, Drama, Mystery",131 min,8.1,82,Bong Joon Ho,204856,0.01M,191
+236,Dźwięki muzyki,(1965),"Biography, Drama, Family",172 min,8.1,63,Robert Wise,250424,163.21M,240
+237,Potwory i spółka,(2001),"Animation, Adventure, Comedy",92 min,8.1,79,None,952962,289.92M,202
+238,Logan: Wolverine,(2017),"Action, Drama, Sci-Fi",137 min,8.1,77,James Mangold,806825,226.28M,214
+239,Wojownik,(2011),"Action, Drama, Sport",140 min,8.1,71,Gavin O\'Connor,488806,13.66M,172
+240,Wyścig,(I) (2013),"Action, Biography, Drama",123 min,8.1,74,Ron Howard,501250,26.95M,221
+241,Rocky,(1976),"Drama, Sport",120 min,8.1,70,John G. Avildsen,611971,117.24M,212
+242,Jak wytresować smoka,(2010),"Animation, Action, Adventure",98 min,8.1,75,None,778357,217.58M,204
+243,Przed wschodem słońca,(1995),"Drama, Romance",101 min,8.1,77,Richard Linklater,329075,5.54M,182
+244,Spotlight,(I) (2015),"Biography, Crime, Drama",129 min,8.1,93,Tom McCarthy,490957,45.06M,216
+245,Zniewolony,(2013),"Biography, Drama, History",134 min,8.1,96,Steve McQueen,726988,56.67M,181
+246,Pluton,(1986),"Drama, War",120 min,8.1,92,Oliver Stone,429744,138.53M,217
+247,Wściekły byk,(1980),"Biography, Drama, Sport",129 min,8.1,90,Martin Scorsese,370554,23.38M,162
+248,OMG: Oh My God!,(2012),"Comedy, Drama, Fantasy",125 min,8.1,None,Umesh Shukla,63451,0.92M,None
+249,Portret kobiety w ogniu,(2019),"Drama, Romance",122 min,8.1,95,Céline Sciamma,103397,3.76M,None
+250,Spragnieni miłości,(2000),"Drama, Romance",94 min,8.1,87,Kar-Wai Wong,161235,2.73M,None
+251,"Paryż, Teksas",(1984),Drama,145 min,8.1,81,Wim Wenders,113842,2.18M,None
+252,Gran Torino,(2008),Drama,116 min,8.1,72,Clint Eastwood,800303,148.10M,173
+253,Mój sąsiad Totoro,(1988),"Animation, Comedy, Family",86 min,8.1,86,Hayao Miyazaki,363617,1.11M,175
+254,Barry Lyndon,(1975),"Adventure, Drama, War",185 min,8.1,89,Stanley Kubrick,177786,None,187
+255,Nienawiść,(1995),"Crime, Drama",98 min,8.1,None,Mathieu Kassovitz,188459,0.31M,226
+256,Ben Hur,(1959),"Adventure, Drama",212 min,8.1,90,William Wyler,248670,74.70M,185
+257,Za wszelką cenę,(2004),"Drama, Sport",132 min,8.1,86,Clint Eastwood,709101,100.49M,176
+258,Stalker,(1979),"Drama, Sci-Fi",162 min,8.1,85,Andrei Tarkovsky,140937,0.23M,None
+259,Mój przyjaciel Hachiko,(2009),"Biography, Drama, Family",93 min,8.1,None,Lasse Hallström,302040,None,233
+260,Przed zachodem słońca,(2004),"Drama, Romance",80 min,8.1,91,Richard Linklater,280309,5.82M,220
+261,Dzikie historie,(2014),"Comedy, Drama, Thriller",122 min,8.1,77,Damián Szifron,210322,3.11M,196
+262,Siódma pieczęć,(1957),"Drama, Fantasy",96 min,8.1,88,Ingmar Bergman,193802,None,206
+263,Sieć,(1976),Drama,121 min,8.1,83,Sidney Lumet,166309,None,222
+264,Stalowy gigant,(1999),"Animation, Action, Adventure",86 min,8.1,85,Brad Bird,217409,23.16M,243
+265,Amores perros,(2000),"Drama, Thriller",154 min,8.1,83,Alejandro G. Iñárritu,249021,5.38M,238
+266,Persona,(1966),"Drama, Thriller",85 min,8.1,86,Ingmar Bergman,127267,None,247
+267,Rebeka,(1940),"Drama, Film-Noir, Mystery",130 min,8.1,86,Alfred Hitchcock,143449,4.36M,239
+268,W imię ojca,(1993),"Biography, Crime, Drama",133 min,8.1,84,Jim Sheridan,183142,25.01M,190
+269,"Żegnaj, moja konkubino",(1992),"Drama, Music, Romance",171 min,8.1,84,Kaige Chen,31869,5.22M,None
+270,Nieugięty Luke,(1967),"Crime, Drama",127 min,8.1,92,Stuart Rosenberg,185102,16.22M,241
+271,Koe no katachi,(2016),"Animation, Drama",130 min,8.1,78,Naoko Yamada,94521,None,None
+272,Hotel Ruanda,(2004),"Biography, Drama, History",121 min,8.1,79,Terry George,366496,23.53M,213
+273,Na nabrzeżach,(1954),"Crime, Drama, Thriller",108 min,8.1,91,Elia Kazan,161170,9.60M,188
+274,"Człowiek, który zabił Liberty Valance\'a",(1962),"Drama, Western",123 min,8.1,94,John Ford,80384,None,None
+275,"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",(1997),"Animation, Action, Drama",87 min,8.1,None,None,60976,None,None
+276,Trzeci człowiek,(1949),"Film-Noir, Mystery, Thriller",104 min,8.1,97,Carol Reed,178217,0.45M,195
+277,Most na rzece Kwai,(1957),"Adventure, Drama, War",161 min,8.1,87,David Lean,229146,44.91M,169
+278,PK,(2014),"Comedy, Drama, Sci-Fi",153 min,8.1,None,Rajkumar Hirani,196420,10.62M,None
+279,Ich noce,(1934),"Comedy, Romance",105 min,8.1,87,Frank Capra,109375,4.36M,244
+280,Papierowy księżyc,(1973),"Comedy, Crime, Drama",102 min,8.1,77,Peter Bogdanovich,50952,30.93M,None
+281,Grona gniewu,(1940),Drama,129 min,8.1,96,John Ford,97947,0.06M,235
+282,Bitwa o Algier,(1966),"Drama, War",121 min,8.1,96,Gillo Pontecorvo,63901,0.06M,237
+283,Najlepsze lata naszego życia,(1946),"Drama, Romance, War",170 min,8.1,93,William Wyler,68603,23.65M,224
+284,Trzy kolory: Czerwony,(1994),"Drama, Mystery, Romance",99 min,8.1,100,Krzysztof Kieslowski,107901,4.04M,None
+285,Festen,(1998),Drama,105 min,8.1,82,Thomas Vinterberg,91663,1.65M,None
+286,Mary i Max,(2009),"Animation, Comedy, Drama",92 min,8.1,None,Adam Elliot,183547,None,205
+287,Czterysta batów,(1959),"Crime, Drama",99 min,8.1,None,François Truffaut,124834,None,246
+288,Mesjasz,(1976),"Biography, Drama, History",177 min,8.1,None,Moustapha Akkad,49786,None,None
+289,Na Zachodzie bez zmian,(1930),"Drama, War",152 min,8.1,91,Lewis Milestone,66371,3.27M,None
+290,Widmo,(1955),"Crime, Drama, Horror",117 min,8.1,None,Henri-Georges Clouzot,68264,1.09M,None
+291,"Tam, gdzie rosną poziomki",(1957),"Drama, Romance",91 min,8.1,88,Ingmar Bergman,112298,None,194
+292,Czerwone pantofelki,(1948),"Drama, Music, Romance",135 min,8.1,None,None,37764,10.90M,None
+293,Kobieta pod presją,(1974),"Drama, Romance",155 min,8.1,88,John Cassavetes,27676,13.34M,None
+294,Zimowy sen,(2014),Drama,196 min,8.1,88,Nuri Bilge Ceylan,54171,0.17M,None
+295,Fanny i Aleksander,(1982),Drama,188 min,8.1,100,Ingmar Bergman,66197,4.97M,None
+296,Tokijska opowieść,(1953),Drama,136 min,8.1,100,Yasujirô Ozu,66111,None,210
+297,Underground,(1995),"Comedy, Drama, Fantasy",170 min,8.1,79,Emir Kusturica,60245,0.17M,None
+298,Męczeństwo Joanny d\'Arc,(1928),"Biography, Drama, History",110 min,8.1,98,Carl Theodor Dreyer,58815,0.02M,215
+299,Pan Smith jedzie do Waszyngtonu,(1939),"Comedy, Drama",129 min,8.1,73,Frank Capra,119327,9.60M,201
+300,Jesienna sonata,(1978),"Drama, Music",99 min,8.1,None,Ingmar Bergman,36751,None,None
+301,"I raz, i dwa",(2000),"Drama, Romance",173 min,8.1,94,Edward Yang,27211,1.14M,None
+302,Wilcze dzieci,(2012),"Animation, Drama, Family",117 min,8.1,71,Mamoru Hosoda,47929,None,None
+303,Lagaan: Dawno temu w Indiach,(2001),"Drama, Musical, Sport",224 min,8.1,84,Ashutosh Gowariker,118463,0.91M,None
+304,Andriej Rublow,(1966),"Biography, Drama, History",205 min,8.1,None,Andrei Tarkovsky,55974,0.10M,None
+305,Ukryta forteca,(1958),"Action, Adventure, Drama",139 min,8.1,89,Akira Kurosawa,41241,None,None
+306,Kto sieje wiatr,(1960),"Biography, Drama, History",128 min,8.1,75,Stanley Kramer,32036,None,None
+307,Generał,(1926),"Action, Adventure, Comedy",78 min,8.1,None,None,95921,1.03M,192
+308,As w potrzasku,(1951),"Drama, Film-Noir",111 min,8.1,72,Billy Wilder,38269,3.97M,None
+309,Wschód słońca,(1927),"Drama, Romance",94 min,8.1,95,F.W. Murnau,53007,0.54M,None
+310,Tron we krwi,(1957),Drama,110 min,8.1,None,Akira Kurosawa,54706,None,None
+311,Noce Cabirii,(1957),Drama,110 min,8.1,None,Federico Fellini,51122,0.75M,None
+312,Czas Cyganów,(1988),"Comedy, Crime, Drama",142 min,8.1,None,Emir Kusturica,32113,0.28M,None
+313,Rób swoje!,(2001),"Comedy, Drama, Romance",183 min,8.1,None,Farhan Akhtar,74679,0.30M,None
+314,Barfi!,(2012),"Comedy, Drama, Romance",151 min,8.1,None,Anurag Basu,85112,2.80M,None
+315,Talvar,(2015),"Crime, Drama, Mystery",132 min,8.1,None,Meghna Gulzar,37135,0.34M,None
+316,Kolor szafranu,(2006),"Comedy, Crime, Drama",167 min,8.1,None,Rakeysh Omprakash Mehra,121347,2.20M,None
+317,Zawieście czerwone latarnie,(1991),"Drama, Romance",125 min,8.1,None,Yimou Zhang,34523,2.60M,None
+318,Bajrangi Bhaijaan,(2015),"Action, Adventure, Comedy",163 min,8.1,None,None,94399,8.18M,None
+319,Biały żar,(1949),"Action, Crime, Drama",114 min,8.1,89,Raoul Walsh,34911,None,None
+320,Pink,(III) (2016),"Crime, Drama, Thriller",136 min,8.1,None,Aniruddha Roy Chowdhury,47122,1.24M,None
+321,Gorączka złota,(1925),"Adventure, Comedy, Drama",95 min,8.1,None,Charles Chaplin,116127,5.45M,184
+322,Viridiana,(1961),Drama,91 min,8.1,None,Luis Buñuel,25645,None,None
+323,Towarzysze broni,(1937),"Drama, War",113 min,8.1,None,Jean Renoir,38188,0.17M,None
+324,Doktor Munnabhai,(2003),"Comedy, Drama",156 min,8.1,None,Rajkumar Hirani,86172,None,None
+325,Rififi,(1955),"Crime, Drama, Thriller",118 min,8.1,97,Jules Dassin,36152,0.06M,None
+326,Jean de Florette,(1986),"Comedy, Drama",120 min,8.1,None,Claude Berri,27021,4.94M,None
+327,Mandarynki,(2013),"Drama, War",87 min,8.1,73,Zaza Urushadze,48089,0.14M,None
+328,Sholay,(1975),"Action, Adventure, Comedy",204 min,8.1,None,Ramesh Sippy,57852,None,None
+329,Anand,(1971),"Drama, Musical",122 min,8.1,None,Hrishikesh Mukherjee,34824,None,None
+330,Środa,(2008),"Action, Crime, Drama",104 min,8.1,None,Neeraj Pandey,81022,None,None
+331,Masaan,(2015),Drama,109 min,8.1,None,Neeraj Ghaywan,29978,None,None
+332,Ballada o rozbójniku,(1996),"Crime, Drama, Thriller",128 min,8.1,None,Yavuz Turgul,71432,None,None
+333,"Naprzód, Indie!",(2007),"Drama, Family, Sport",153 min,8.1,68,Shimit Amin,83419,1.11M,None
+334,Cyrk,(1928),"Comedy, Family, Romance",72 min,8.1,90,Charles Chaplin,35362,None,None
+335,Black,(2005),Drama,122 min,8.1,None,Sanjay Leela Bhansali,35667,0.73M,None
+336,Hera Pheri,(2000),"Action, Comedy, Crime",156 min,8.1,None,Priyadarshan,70838,None,None
+337,Queen,(2013),"Adventure, Comedy, Drama",146 min,8.1,None,Vikas Bahl,67603,1.43M,None
+338,Kahaani,(2012),"Mystery, Thriller",122 min,8.1,None,Sujoy Ghosh,64693,1.04M,None
+339,Her Sey Çok Güzel Olacak,(1998),"Comedy, Drama, Thriller",107 min,8.1,None,Ömer Vargi,26870,None,None
+340,Article 15,(2019),"Crime, Drama, Mystery",130 min,8.1,None,Anubhav Sinha,35849,None,None
+341,Udaan,(2010),Drama,134 min,8.1,None,Vikramaditya Motwane,46365,0.01M,None
+342,Poświęcenie,(1999),"Action, Crime, Drama",174 min,8.1,None,John Mathew Matthan,26488,None,None
+343,Diuna,(2021),"Action, Adventure, Drama",155 min,8.0,74,Denis Villeneuve,721294,108.33M,None
+344,Poprzednie życie,(2023),"Drama, Romance",105 min,8.0,94,Celine Song,33747,None,None
+345,Blade Runner 2049,(2017),"Action, Drama, Mystery",164 min,8.0,81,Denis Villeneuve,627896,92.05M,None
+346,Narzeczona dla księcia,(1987),"Adventure, Comedy, Family",98 min,8.0,77,Rob Reiner,442057,30.86M,None
+347,Czarny łabędź,(2010),"Drama, Thriller",108 min,8.0,79,Darren Aronofsky,802819,106.95M,None
+348,Dziecko Rosemary,(1968),"Drama, Horror",137 min,8.0,96,Roman Polanski,228561,None,None
+349,Donnie Darko,(2001),"Drama, Mystery, Sci-Fi",113 min,8.0,88,Richard Kelly,832446,1.48M,None
+350,Młody Frankenstein,(1974),Comedy,106 min,8.0,83,Mel Brooks,165571,86.30M,None
+351,La La Land,(2016),"Comedy, Drama, Music",128 min,8.0,94,Damien Chazelle,638106,151.10M,None
+352,Strażnicy Galaktyki,(2014),"Action, Adventure, Comedy",121 min,8.0,76,James Gunn,1247197,333.18M,None
+353,Sin City: Miasto grzechu,(2005),"Crime, Thriller",124 min,8.0,74,None,785652,74.10M,None
+354,Casino Royale,(2006),"Action, Adventure, Thriller",144 min,8.0,80,Martin Campbell,680858,167.45M,None
+355,Ona,(2013),"Drama, Romance, Sci-Fi",126 min,8.0,91,Spike Jonze,649820,25.57M,None
+356,Deadpool,(2016),"Action, Comedy",108 min,8.0,65,Tim Miller,1091907,363.07M,None
+357,Dotyk zła,(1958),"Crime, Drama, Film-Noir",95 min,8.0,99,Orson Welles,108124,2.24M,None
+358,Zjawa,(I) (2015),"Action, Adventure, Drama",156 min,8.0,76,Alejandro G. Iñárritu,847234,183.64M,None
+359,Iniemamocni,(2004),"Animation, Action, Adventure",115 min,8.0,90,Brad Bird,782406,261.44M,230
+360,Avengers,(2012),"Action, Sci-Fi",143 min,8.0,69,Joss Whedon,1436212,623.28M,None
+361,Marsjanin,(2015),"Adventure, Drama, Sci-Fi",144 min,8.0,80,Ridley Scott,897638,228.43M,None
+362,CODA,(2021),"Comedy, Drama, Music",111 min,8.0,72,Sian Heder,154241,None,None
+363,Noc myśliwego,(1955),"Crime, Drama, Film-Noir",92 min,8.0,97,Charles Laughton,94794,0.65M,None
+364,Gra tajemnic,(2014),"Biography, Drama, Thriller",114 min,8.0,71,Morten Tyldum,805563,91.13M,None
+365,Duża ryba,(2003),"Adventure, Drama, Fantasy",125 min,8.0,58,Tim Burton,452580,66.26M,None
+366,Zwierzogród,(2016),"Animation, Adventure, Comedy",108 min,8.0,78,None,528997,341.27M,None
+367,Tańczący z wilkami,(1990),"Adventure, Drama, Western",181 min,8.0,72,Kevin Costner,282538,184.21M,250
+368,Człowiek ringu,(2005),"Biography, Drama, Romance",144 min,8.0,69,Ron Howard,194726,61.65M,None
+369,12 małp,(1995),"Mystery, Sci-Fi, Thriller",129 min,8.0,74,Terry Gilliam,636647,57.14M,None
+370,Kill Bill 2,(2004),"Action, Crime, Thriller",137 min,8.0,83,Quentin Tarantino,787123,66.21M,None
+371,Zapach kobiety,(1992),Drama,156 min,8.0,59,Martin Brest,318729,63.90M,None
+372,Aladyn,(1992),"Animation, Adventure, Comedy",90 min,8.0,86,None,450791,217.35M,249
+373,Dzień Świstaka,(1993),"Comedy, Drama, Fantasy",101 min,8.0,72,Harold Ramis,664769,70.91M,236
+374,Co w duszy gra,(2020),"Animation, Adventure, Comedy",100 min,8.0,83,None,359652,None,None
+375,W pogoni za szczęściem,(2006),"Biography, Drama",117 min,8.0,64,Gabriele Muccino,544531,163.57M,None
+376,Magnolia,(1999),Drama,188 min,8.0,78,Paul Thomas Anderson,323421,22.46M,None
+377,Ultimatum Bourne\'a,(2007),"Action, Mystery, Thriller",115 min,8.0,85,Paul Greengrass,650349,227.47M,None
+378,Niewidzialny gość,(2016),"Crime, Drama, Mystery",106 min,8.0,None,Oriol Paulo,187318,None,None
+379,Krwawy diament,(2006),"Adventure, Drama, Thriller",143 min,8.0,64,Edward Zwick,573581,57.37M,None
+380,Perfect Blue,(1997),"Animation, Crime, Drama",81 min,8.0,67,Satoshi Kon,88773,0.78M,None
+381,W samo południe,(1952),"Drama, Thriller, Western",85 min,8.0,89,Fred Zinnemann,108367,9.45M,None
+382,Rain Man,(1988),Drama,133 min,8.0,65,Barry Levinson,535133,178.80M,None
+383,Piękna i Bestia,(1991),"Animation, Family, Fantasy",84 min,8.0,95,None,471428,218.97M,None
+384,Absolwent,(1967),"Comedy, Drama, Romance",106 min,8.0,83,Mike Nichols,284020,104.95M,None
+385,Akira,(1988),"Animation, Action, Drama",124 min,8.0,67,Katsuhiro Ôtomo,198466,0.55M,None
+386,Chungking Express,(1994),"Comedy, Crime, Drama",102 min,8.0,78,Kar-Wai Wong,91361,0.60M,None
+387,Dogville,(2003),"Crime, Drama",178 min,8.0,61,Lars von Trier,155520,1.53M,None
+388,Jak zostać królem,(2010),"Biography, Drama, History",118 min,8.0,88,Tom Hooper,698733,138.80M,None
+389,Slumdog. Milioner z ulicy,(2008),"Crime, Drama, Romance",120 min,8.0,84,None,866584,141.32M,None
+390,"Rób, co należy",(1989),"Comedy, Drama",120 min,8.0,93,Spike Lee,109320,27.55M,None
+391,Ostatni seans filmowy,(1971),"Drama, Romance",118 min,8.0,93,Peter Bogdanovich,51163,29.13M,None
+392,Planeta małp,(1968),"Adventure, Sci-Fi",112 min,8.0,79,Franklin J. Schaffner,188170,33.40M,None
+393,Lion. Droga do domu,(2016),"Biography, Drama",118 min,8.0,69,Garth Davis,246029,51.74M,None
+394,JFK,(1991),"Drama, History, Thriller",189 min,8.0,72,Oliver Stone,165766,70.41M,None
+395,Żywot Briana,(1979),Comedy,94 min,8.0,77,Terry Jones,415675,20.05M,248
+396,Pieskie popołudnie,(1975),"Biography, Crime, Drama",125 min,8.0,86,Sidney Lumet,268377,50.00M,None
+397,Blizny przeszłości,(1996),Drama,135 min,8.0,84,Billy Bob Thornton,97245,24.48M,None
+398,Butch Cassidy i Sundance Kid,(1969),"Biography, Crime, Drama",110 min,8.0,66,George Roy Hill,223373,102.31M,None
+399,Annie Hall,(1977),"Comedy, Romance",93 min,8.0,92,Woody Allen,273408,39.20M,None
+400,Co się zdarzyło Baby Jane?,(1962),"Drama, Horror, Thriller",134 min,8.0,75,Robert Aldrich,60120,4.05M,None
+401,Skrzypek na dachu,(1971),"Drama, Family, Musical",181 min,8.0,67,Norman Jewison,46279,80.50M,None
+402,Motylek,(1973),"Biography, Crime, Drama",151 min,8.0,58,Franklin J. Schaffner,136057,53.27M,None
+403,Osiem i pół,(1963),Drama,138 min,8.0,93,Federico Fellini,122932,0.05M,None
+404,Gabinet doktora Caligari,(1920),"Horror, Mystery, Thriller",76 min,8.0,None,Robert Wiene,68131,None,None
+405,Nausicaä z Doliny Wiatru,(1984),"Animation, Adventure, Sci-Fi",117 min,8.0,86,Hayao Miyazaki,177271,0.50M,None
+406,Ściana,(1982),"Drama, Fantasy, Music",95 min,8.0,47,Alan Parker,84000,22.24M,None
+407,Laputa - podniebny zamek,(1986),"Animation, Adventure, Family",125 min,8.0,78,Hayao Miyazaki,175776,None,None
+408,Ip Man,(2008),"Action, Biography, Drama",106 min,8.0,59,Wilson Yip,230833,None,None
+409,Mommy,(I) (2014),Drama,139 min,8.0,74,Xavier Dolan,60395,3.49M,None
+410,Rio Bravo,(1959),"Drama, Western",141 min,8.0,93,Howard Hawks,66510,12.54M,None
+411,Słodkie życie,(1960),"Comedy, Drama",174 min,8.0,95,Federico Fellini,76629,19.52M,None
+412,Gandhi,(1982),"Biography, Drama, History",191 min,8.0,79,Richard Attenborough,237820,52.77M,None
+413,Rzymskie wakacje,(1953),"Comedy, Romance",118 min,8.0,78,William Wyler,144680,None,None
+414,Solaris,(1972),"Drama, Mystery, Sci-Fi",167 min,8.0,93,Andrei Tarkovsky,96062,None,None
+415,Anatomia morderstwa,(1959),"Drama, Mystery",161 min,8.0,95,Otto Preminger,69579,11.90M,None
+416,Zwierciadło,(1975),"Biography, Drama",107 min,8.0,82,Andrei Tarkovsky,50484,0.18M,None
+417,Fitzcarraldo,(1982),"Adventure, Drama",158 min,8.0,None,Werner Herzog,37390,None,None
+418,Infernal Affairs: Piekielna gra,(2002),"Action, Crime, Drama",101 min,8.0,75,None,129199,0.17M,None
+419,Sokół maltański,(1941),"Crime, Film-Noir, Mystery",100 min,8.0,97,John Huston,164108,2.11M,None
+420,Bilardzista,(1961),"Drama, Sport",134 min,8.0,90,Robert Rossen,85348,8.28M,None
+421,Prosta historia,(1999),"Biography, Drama",112 min,8.0,86,David Lynch,94982,6.20M,None
+422,Sekret wilczej gromady,(2020),"Animation, Action, Adventure",103 min,8.0,87,None,36791,None,None
+423,1900: Człowiek legenda,(1998),"Drama, Music, Romance",169 min,8.0,58,Giuseppe Tornatore,67812,0.26M,None
+424,Kto się boi Virginii Woolf?,(1966),Drama,131 min,8.0,75,Mike Nichols,78574,None,None
+425,Człowiek z przeszłością,(1947),"Crime, Drama, Film-Noir",97 min,8.0,85,Jacques Tourneur,39785,None,None
+426,Sekrety i kłamstwa,(1996),"Comedy, Drama",136 min,8.0,92,Mike Leigh,46085,13.42M,None
+427,Szlachectwo zobowiązuje,(1949),"Comedy, Crime",106 min,8.0,None,Robert Hamer,39015,None,None
+428,Sklep za rogiem,(1940),"Comedy, Drama, Romance",99 min,8.0,96,Ernst Lubitsch,36299,0.20M,None
+429,Elitarni,(2007),"Action, Crime, Drama",115 min,8.0,33,José Padilha,108120,0.01M,None
+430,Yeopgijeogin geunyeo,(2001),"Comedy, Drama, Romance",137 min,8.0,None,Jae-young Kwak,49812,None,None
+431,Sekrety morza,(2014),"Animation, Adventure, Drama",93 min,8.0,85,Tomm Moore,61746,0.86M,None
+432,Księżniczka Kaguya,(2013),"Animation, Drama, Family",137 min,8.0,89,Isao Takahata,51406,1.51M,None
+433,Dzika grusza,(2018),Drama,188 min,8.0,86,Nuri Bilge Ceylan,26535,0.03M,None
+434,W stronę morza,(I) (2004),"Biography, Drama",126 min,8.0,74,Alejandro Amenábar,84206,2.09M,None
+435,Spotkanie,(1945),"Drama, Romance",86 min,8.0,92,David Lean,42887,None,None
+436,Detektyw,(1972),"Mystery, Thriller",138 min,8.0,None,Joseph L. Mankiewicz,49401,4.08M,None
+437,Samuraj,(1967),"Crime, Drama, Thriller",105 min,8.0,None,Jean-Pierre Melville,54958,0.04M,None
+438,Motyl i skafander,(2007),"Biography, Drama",112 min,8.0,92,Julian Schnabel,109581,5.99M,None
+439,Persepolis,(2007),"Animation, Biography, Drama",96 min,8.0,90,None,98354,4.45M,None
+440,Stalag 17,(1953),"Comedy, Drama, War",120 min,8.0,84,Billy Wilder,57671,None,None
+441,Dziecięcy świat,(2004),Drama,141 min,8.0,88,Hirokazu Koreeda,30178,0.68M,None
+442,Aida,(2020),"Drama, History, War",101 min,8.0,97,Jasmila Zbanic,36948,None,None
+443,Baahubali: Początek,(2015),"Action, Drama",159 min,8.0,None,S.S. Rajamouli,132558,6.74M,None
+444,Szepty i krzyki,(1972),Drama,91 min,8.0,None,Ingmar Bergman,36131,1.74M,None
+445,Anioł zagłady,(1962),"Drama, Fantasy",95 min,8.0,None,Luis Buñuel,34817,None,None
+446,Haider,(2014),"Action, Crime, Drama",160 min,8.0,None,Vishal Bhardwaj,56687,0.90M,None
+447,Słodki smak sukcesu,(1957),"Drama, Film-Noir",96 min,8.0,100,Alexander Mackendrick,34678,None,None
+448,Żona dla zuchwałych,(1995),"Drama, Romance",189 min,8.0,None,Aditya Chopra,74764,None,None
+449,Dworzec nadziei,(1998),Drama,110 min,8.0,80,Walter Salles,41459,5.60M,None
+450,"Czarny kot, biały kot",(1998),"Comedy, Crime, Romance",127 min,8.0,73,Emir Kusturica,55624,0.35M,None
+451,Źródło,(1960),Drama,89 min,8.0,None,Ingmar Bergman,30938,1.53M,None
+452,"Do zobaczenia, chłopcy",(1987),"Drama, War",104 min,8.0,88,Louis Malle,35488,4.54M,None
+453,"Wiosna, lato, jesień, zima... i wiosna",(2003),"Drama, Romance",103 min,8.0,85,Kim Ki-duk,85624,2.38M,None
+454,La strada,(1954),Drama,108 min,8.0,None,Federico Fellini,65590,None,None
+455,Pożegnania,(2008),Drama,130 min,8.0,68,Yôjirô Takita,54121,1.50M,None
+456,Dziecko wojny,(1962),"Drama, War",95 min,8.0,None,None,38876,None,None
+457,"Rzym, miasto otwarte",(1945),"Drama, Thriller, War",103 min,8.0,None,Roberto Rossellini,28211,None,None
+458,G.O.R.A.,(2004),"Adventure, Comedy, Sci-Fi",127 min,8.0,None,Ömer Faruk Sorak,65526,None,None
+459,Sanjuro - Samuraj znikąd,(1962),"Action, Drama, Thriller",96 min,8.0,None,Akira Kurosawa,40211,None,None
+460,Elitarni - Ostatnie starcie,(2010),"Action, Crime, Drama",115 min,8.0,71,José Padilha,85561,0.10M,None
+461,Lage Raho Munna Bhai,(2006),"Comedy, Drama, Romance",144 min,8.0,None,Rajkumar Hirani,48771,2.22M,None
+462,Braterstwo broni,(2004),"Action, Drama, War",140 min,8.0,64,Je-kyu Kang,40676,1.11M,None
+463,Goście Wieczerzy Pańskiej,(1963),Drama,81 min,8.0,None,Ingmar Bergman,26441,None,None
+464,Andaz Apna Apna,(1994),"Action, Comedy, Romance",160 min,8.0,None,Rajkumar Santoshi,54648,None,None
+465,M.S. Dhoni: The Untold Story,(2016),"Biography, Drama, Sport",184 min,8.0,None,None,65316,1.78M,None
+466,Special Chabbis,(2013),"Crime, Drama, Thriller",144 min,8.0,None,Neeraj Pandey,58148,1.08M,None
+467,Nefes: Vatan Sagolsun,(2009),"Action, Drama, Thriller",128 min,8.0,None,Levent Semerci,34698,None,None
+468,Telemania,(2001),"Comedy, Drama",110 min,8.0,None,None,38090,None,None
+469,Mission: Impossible - Dead Reckoning Part One,(2023),"Action, Adventure, Thriller",163 min,7.9,81,Christopher McQuarrie,164625,None,None
+470,Miasteczko Halloween,(1993),"Animation, Family, Fantasy",76 min,7.9,82,Henry Selick,360033,75.08M,None
+471,Strażnicy Galaktyki vol. 3,(2023),"Action, Adventure, Comedy",150 min,7.9,64,James Gunn,333076,None,None
+472,Titanic,(1997),"Drama, Romance",194 min,7.9,75,James Cameron,1250178,659.33M,None
+473,Na noże,(2019),"Comedy, Crime, Drama",130 min,7.9,82,Rian Johnson,743877,165.36M,None
+474,Harry Potter i więzień Azkabanu,(2004),"Adventure, Family, Fantasy",142 min,7.9,82,Alfonso Cuarón,669770,249.36M,None
+475,Nowy początek,(II) (2016),"Drama, Mystery, Sci-Fi",116 min,7.9,81,Denis Villeneuve,740708,100.55M,None
+476,Mulholland Drive,(2001),"Drama, Mystery, Thriller",147 min,7.9,86,David Lynch,374226,7.22M,None
+477,Edward Nożycoręki,(1990),"Drama, Fantasy, Romance",105 min,7.9,74,Tim Burton,511634,56.36M,None
+478,Fantastyczny Pan Lis,(2009),"Animation, Adventure, Comedy",87 min,7.9,83,Wes Anderson,258538,21.00M,None
+479,E.T.,(1982),"Adventure, Family, Sci-Fi",115 min,7.9,92,Steven Spielberg,427800,435.11M,None
+480,Boogie Nights,(1997),Drama,155 min,7.9,86,Paul Thomas Anderson,276686,26.40M,None
+481,Wysyp żywych trupów,(2004),"Comedy, Horror",99 min,7.9,76,Edgar Wright,581007,13.54M,None
+482,Avatar,(2009),"Action, Adventure, Fantasy",162 min,7.9,83,James Cameron,1363079,760.51M,None
+483,Bohemian Rhapsody,(2018),"Biography, Drama, Music",134 min,7.9,49,Bryan Singer,571110,216.43M,None
+484,Iron Man,(2008),"Action, Adventure, Sci-Fi",126 min,7.9,79,Jon Favreau,1100709,318.41M,None
+485,U progu sławy,(2000),"Adventure, Comedy, Drama",122 min,7.9,90,Cameron Crowe,287894,32.53M,None
+486,Thor: Ragnarok,(2017),"Action, Adventure, Comedy",130 min,7.9,74,Taika Waititi,795049,315.06M,None
+487,Prawdziwy romans,(1993),"Crime, Drama, Romance",119 min,7.9,59,Tony Scott,237364,12.28M,None
+488,Na skraju jutra,(2014),"Action, Adventure, Sci-Fi",113 min,7.9,71,Doug Liman,716047,100.21M,None
+489,Blues Brothers,(1980),"Action, Adventure, Comedy",133 min,7.9,60,John Landis,209113,57.23M,None
+490,Cudowny chłopak,(I) (2017),"Drama, Family",113 min,7.9,66,Stephen Chbosky,173832,132.42M,None
+491,Ludzkie dzieci,(2006),"Action, Drama, Sci-Fi",109 min,7.9,84,Alfonso Cuarón,519223,35.55M,None
+492,Jojo Rabbit,(2019),"Comedy, Drama, War",108 min,7.9,58,Taika Waititi,423717,33.37M,None
+493,Arszenik i stare koronki,(1944),"Comedy, Crime, Thriller",118 min,7.9,None,Frank Capra,73709,None,None
+494,Shrek,(2001),"Animation, Adventure, Comedy",90 min,7.9,84,None,713403,267.67M,None
+495,Liga Sprawiedliwości Zacka Snydera,(2021),"Action, Adventure, Fantasy",242 min,7.9,54,Zack Snyder,425638,None,None
+496,Harvey,(1950),"Comedy, Drama, Fantasy",104 min,7.9,None,Henry Koster,57425,None,None
+497,Star Trek,(2009),"Action, Adventure, Sci-Fi",127 min,7.9,82,J.J. Abrams,614901,257.73M,None
+498,Charlie,(2012),Drama,103 min,7.9,67,Stephen Chbosky,536205,17.74M,None
+499,Rzeka tajemnic,(2003),"Crime, Drama, Mystery",138 min,7.9,84,Clint Eastwood,474583,90.14M,None
+500,Dystrykt 9,(2009),"Action, Sci-Fi, Thriller",112 min,7.9,81,Neill Blomkamp,704497,115.65M,None
+501,"Najpierw strzelaj, potem zwiedzaj",(2008),"Comedy, Crime, Drama",107 min,7.9,67,Martin McDonagh,451949,7.76M,None
+502,Dziesięcioro przykazań,(1956),"Adventure, Drama, Family",220 min,7.9,None,Cecil B. DeMille,75317,93.74M,None
+503,"X-Men: Przeszłość, która nadejdzie",(2014),"Action, Adventure, Sci-Fi",132 min,7.9,75,Bryan Singer,733566,233.92M,None
+504,Nosferatu - symfonia grozy,(1922),"Fantasy, Horror",94 min,7.9,None,F.W. Murnau,102733,None,None
+505,Historia małżeńska,(2019),"Drama, Romance",137 min,7.9,94,Noah Baumbach,333978,2.00M,None
+506,Witaj w klubie,(2013),"Biography, Drama",117 min,7.9,77,Jean-Marc Vallée,508757,27.30M,None
+507,Życie Pi,(2012),"Adventure, Drama, Fantasy",127 min,7.9,79,Ang Lee,654350,124.99M,None
+508,Toy Story 2,(1999),"Animation, Adventure, Comedy",92 min,7.9,88,None,606287,245.85M,None
+509,Młodzi przebojowi,(2016),"Comedy, Drama, Music",106 min,7.9,79,John Carney,98883,3.24M,None
+510,Spartakus,(1960),"Adventure, Biography, Drama",197 min,7.9,87,None,140471,30.00M,None
+511,Oto Spinal Tap,(1984),"Comedy, Music",82 min,7.9,92,Rob Reiner,144479,4.74M,None
+512,Więzy krwi,(1993),"Crime, Drama",180 min,7.9,47,Taylor Hackford,33239,4.50M,None
+513,Brazil,(1985),"Drama, Sci-Fi, Thriller",132 min,7.9,84,Terry Gilliam,207803,9.93M,None
+514,Życie Carlita,(1993),"Crime, Drama, Thriller",144 min,7.9,66,Brian De Palma,227976,36.95M,None
+515,Boyhood,(I) (2014),Drama,165 min,7.9,100,Richard Linklater,363279,25.38M,None
+516,Ghost in the Shell,(1995),"Animation, Action, Crime",83 min,7.9,76,Mamoru Oshii,151959,0.52M,None
+517,Prezent pod choinkę,(1983),"Comedy, Family",93 min,7.9,77,Bob Clark,161970,20.61M,None
+518,Zapaśnik,(2008),"Drama, Sport",109 min,7.9,80,Darren Aronofsky,315892,26.24M,None
+519,King Kong,(1933),"Adventure, Horror, Sci-Fi",100 min,7.9,92,None,89150,10.00M,None
+520,"Przyczajony tygrys, ukryty smok",(2000),"Action, Adventure, Drama",120 min,7.9,94,Ang Lee,278042,128.08M,None
+521,Za garść dolarów,(1964),"Action, Drama, Western",99 min,7.9,65,Sergio Leone,227216,14.50M,None
+522,Tańcząc w ciemnościach,(2000),"Crime, Drama, Musical",140 min,7.9,63,Lars von Trier,114568,4.18M,None
+523,Dzika banda,(1969),"Action, Adventure, Drama",145 min,7.9,98,Sam Peckinpah,88769,12.06M,None
+524,Przed północą,(2013),"Drama, Romance",109 min,7.9,94,Richard Linklater,168105,8.11M,None
+525,Tramwaj zwany pożądaniem,(1951),Drama,122 min,7.9,97,Elia Kazan,112518,8.00M,None
+526,Hero,(2002),"Action, Adventure, Drama",120 min,7.9,85,Yimou Zhang,185797,53.71M,None
+527,Niebo nad Berlinem,(1987),"Drama, Fantasy, Romance",128 min,7.9,79,Wim Wenders,74780,3.33M,None
+528,Doktor Żywago,(1965),"Drama, Romance, War",197 min,7.9,69,David Lean,80473,111.72M,None
+529,W upalną noc,(1967),"Drama, Mystery, Thriller",110 min,7.9,76,Norman Jewison,81365,24.38M,None
+530,Złodziejaszki,(2018),"Crime, Drama, Thriller",121 min,7.9,93,Hirokazu Koreeda,82993,3.31M,None
+531,Szarada,(1963),"Comedy, Mystery, Romance",113 min,7.9,83,Stanley Donen,82917,13.47M,None
+532,Osławiona,(1946),"Drama, Film-Noir, Romance",102 min,7.9,100,Alfred Hitchcock,105178,10.46M,None
+533,Przechowalnia numer 12,(2013),Drama,96 min,7.9,82,Destin Daniel Cretton,90565,1.01M,None
+534,Wszyscy ludzie prezydenta,(1976),"Drama, History, Thriller",138 min,7.9,84,Alan J. Pakula,122828,70.60M,None
+535,Artysta,(I) (2011),"Comedy, Drama, Romance",100 min,7.9,89,Michel Hazanavicius,246458,44.67M,None
+536,Wystarczy być,(1979),"Comedy, Drama",130 min,7.9,83,Hal Ashby,76033,30.18M,None
+537,The Raid 2: Infiltracja,(2014),"Action, Crime, Thriller",150 min,7.9,71,Gareth Evans,129113,2.63M,None
+538,Trzy kolory: Niebieski,(1993),"Drama, Music, Mystery",94 min,7.9,87,Krzysztof Kieslowski,108035,1.32M,None
+539,Nieznajomi z pociągu,(1951),"Crime, Drama, Film-Noir",101 min,7.9,88,Alfred Hitchcock,138719,7.63M,None
+540,Przeżyliśmy wojnę,(1962),"Drama, Thriller",126 min,7.9,94,John Frankenheimer,78330,None,None
+541,Harold i Maude,(1971),"Comedy, Drama, Romance",91 min,7.9,62,Hal Ashby,80517,None,None
+542,Togo,(2019),"Adventure, Biography, Drama",113 min,7.9,69,Ericson Core,53391,None,None
+543,Sznur,(1948),"Crime, Drama, Mystery",80 min,7.9,73,Alfred Hitchcock,150165,None,None
+544,Patton,(1970),"Biography, Drama, War",172 min,7.9,86,Franklin J. Schaffner,106304,61.70M,None
+545,Lew w zimie,(1968),"Biography, Drama, History",134 min,7.9,None,Anthony Harvey,33250,22.28M,None
+546,Wielki sen,(1946),"Crime, Film-Noir, Mystery",114 min,7.9,86,Howard Hawks,88969,6.54M,None
+547,Tylko instynkt,(1994),"Crime, Drama",102 min,7.9,77,Lee Tamahori,36123,2.20M,None
+548,Lampart,(1963),"Drama, History",186 min,7.9,100,Luchino Visconti,28026,None,None
+549,Zabójstwo,(1956),"Crime, Drama, Film-Noir",84 min,7.9,91,Stanley Kubrick,95022,None,None
+550,Miłość,(2012),Drama,127 min,7.9,95,Michael Haneke,104106,6.74M,None
+551,Nazywam się Khan,(2010),"Adventure, Drama, Romance",165 min,7.9,50,Karan Johar,112983,4.02M,None
+552,Filadelfijska opowieść,(1940),"Comedy, Romance",112 min,7.9,96,George Cukor,72390,None,None
+553,Porozmawiaj z nią,(2002),"Drama, Mystery, Romance",112 min,7.9,86,Pedro Almodóvar,116089,9.36M,None
+554,Pościg za cieniem,(1934),"Comedy, Crime, Mystery",91 min,7.9,86,W.S. Van Dyke,31790,None,None
+555,Głową w mur,(2004),"Drama, Romance",121 min,7.9,78,Fatih Akin,56621,None,None
+556,Laura,(1944),"Drama, Film-Noir, Mystery",88 min,7.9,None,Otto Preminger,49886,4.36M,None
+557,Taksówkarz,(2017),"Action, Drama, History",137 min,7.9,69,Hun Jang,28947,1.53M,None
+558,Ofiarowanie,(1986),Drama,149 min,7.9,None,Andrei Tarkovsky,30230,0.30M,None
+559,Przygody Robin Hooda,(1938),"Action, Adventure, Romance",102 min,7.9,97,None,53507,3.98M,None
+560,Pustka,(1950),"Drama, Film-Noir, Mystery",94 min,7.9,None,Nicholas Ray,34040,None,None
+561,Z zimną krwią,(1967),"Biography, Crime, Drama",129 min,7.9,89,Richard Brooks,28196,None,None
+562,Konformista,(1970),Drama,113 min,7.9,100,Bernardo Bertolucci,32792,0.54M,None
+563,Kotka na gorącym blaszanym dachu,(1958),Drama,108 min,7.9,84,Richard Brooks,52361,17.57M,None
+564,Mildred Pierce,(1945),"Crime, Drama, Film-Noir",111 min,7.9,88,Michael Curtiz,27867,None,None
+565,Amarcord,(1973),"Comedy, Drama",123 min,7.9,None,Federico Fellini,45834,0.58M,None
+566,Gdyby jutra nie było,(2003),"Comedy, Drama, Musical",186 min,7.9,54,Nikkhil Advani,73269,1.79M,None
+567,Bannion,(1953),"Crime, Film-Noir, Thriller",89 min,7.9,None,Fritz Lang,28290,None,None
+568,Sobowtór,(1980),"Drama, History, War",180 min,7.9,84,Akira Kurosawa,37398,None,None
+569,Cleo od 5 do 7,(1962),"Comedy, Drama, Music",90 min,7.9,87,Agnès Varda,25764,None,None
+570,Cud na 34. ulicy,(1947),"Comedy, Drama, Family",96 min,7.9,88,George Seaton,51633,2.65M,None
+571,Windą na szafot,(1958),"Crime, Drama, Thriller",91 min,7.9,94,Louis Malle,27801,0.11M,None
+572,Pusty dom,(2004),"Crime, Drama, Romance",88 min,7.9,72,Kim Ki-duk,57297,0.24M,None
+573,Mój pan mąż,(1936),"Comedy, Drama, Romance",94 min,7.9,82,Gregory La Cava,25803,None,None
+574,Co wiesz o Elly?,(2009),"Drama, Mystery",119 min,7.9,87,Asghar Farhadi,56084,0.11M,None
+575,Piękna i bestia,(1946),"Drama, Fantasy, Romance",96 min,7.9,92,None,27573,0.30M,None
+576,Kiedy ją spotkałem,(2007),"Comedy, Drama, Romance",138 min,7.9,None,Imtiaz Ali,56809,0.41M,None
+577,Nostalgia,(1983),Drama,125 min,7.9,None,Andrei Tarkovsky,29173,0.01M,None
+578,W kręgu zła,(1970),"Crime, Drama, Thriller",140 min,7.9,92,Jean-Pierre Melville,27280,0.37M,None
+579,Dziewięć królowych,(2000),"Crime, Drama, Thriller",114 min,7.9,80,Fabián Bielinsky,55706,1.22M,None
+580,Powrót,(2003),Drama,110 min,7.9,82,Andrey Zvyagintsev,46808,0.50M,None
+581,"4 miesiące, 3 tygodnie i 2 dni",(2007),Drama,113 min,7.9,97,Cristian Mungiu,62523,1.19M,None
+582,Stracony weekend,(1945),"Drama, Film-Noir",101 min,7.9,None,Billy Wilder,39284,9.46M,None
+583,Wersy ulicy,(2019),"Drama, Music, Romance",154 min,7.9,65,Zoya Akhtar,42312,5.57M,None
+584,Ziemia niczyja,(I) (2001),"Comedy, Drama, War",98 min,7.9,84,Danis Tanovic,48300,1.06M,None
+585,Jak w zwierciadle,(1961),Drama,90 min,7.9,84,Ingmar Bergman,26799,None,None
+586,Pancernik Potiomkin,(1925),"Drama, History, Thriller",75 min,7.9,97,Sergei Eisenstein,60350,0.05M,None
+587,Dev.D,(2009),"Comedy, Drama, Romance",144 min,7.9,None,Anurag Kashyap,31768,0.01M,None
+588,Podróże Sullivana,(1941),"Adventure, Comedy, Drama",90 min,7.9,None,Preston Sturges,27964,None,None
+589,Reguły gry,(1939),"Comedy, Drama",110 min,7.9,99,Jean Renoir,30635,None,None
+590,C.R.A.Z.Y.,(2005),"Comedy, Drama",129 min,7.9,81,Jean-Marc Vallée,33811,None,None
+591,W jego oczach,(2014),"Drama, Romance",96 min,7.9,71,Daniel Ribeiro,27102,0.10M,None
+592,Badhaai ho,(2018),"Comedy, Drama",124 min,7.9,None,Amit Ravindernath Sharma,36678,None,None
+593,Super 30,(2019),"Biography, Drama",154 min,7.9,None,Vikas Bahl,35198,2.27M,None
+594,Padman,(2018),"Comedy, Drama",140 min,7.9,None,R. Balki,27832,1.66M,None
+595,Baby,(I) (2015),"Action, Crime, Thriller",159 min,7.9,None,Neeraj Pandey,59341,None,None
+596,Airlift,(2016),"Action, Drama, History",130 min,7.9,None,Raja Menon,58268,None,None
+597,Uciekaj!,(I) (2017),"Horror, Mystery, Thriller",104 min,7.8,85,Jordan Peele,663129,176.04M,None
+598,John Wick 4,(2023),"Action, Crime, Thriller",169 min,7.8,78,Chad Stahelski,287927,None,None
+599,Batman,(2022),"Action, Crime, Drama",176 min,7.8,72,Matt Reeves,738218,369.35M,None
+600,Wszystko wszędzie naraz,(2022),"Action, Adventure, Comedy",139 min,7.8,81,None,483967,72.86M,None
+601,Duma i uprzedzenie,(2005),"Drama, Romance",129 min,7.8,82,Joe Wright,318674,38.41M,None
+602,Big Short,(2015),"Biography, Comedy, Drama",130 min,7.8,81,Adam McKay,466227,70.26M,None
+603,Pogromcy duchów,(1984),"Action, Comedy, Fantasy",105 min,7.8,71,Ivan Reitman,433597,238.63M,None
+604,Dżentelmeni,(2019),"Action, Crime",113 min,7.8,51,Guy Ritchie,373080,36.47M,None
+605,Łotr 1. Gwiezdne wojny - historie,(2016),"Action, Adventure, Sci-Fi",133 min,7.8,65,Gareth Edwards,670417,532.18M,None
+606,Willy Wonka i fabryka czekolady,(1971),"Family, Fantasy, Musical",100 min,7.8,67,Mel Stuart,214775,4.00M,None
+607,Wolny dzień Ferrisa Buellera,(1986),Comedy,103 min,7.8,61,John Hughes,377610,70.14M,None
+608,Apocalypto,(2006),"Action, Adventure, Drama",139 min,7.8,68,Mel Gibson,324610,50.87M,None
+609,Drive,(I) (2011),"Action, Drama",100 min,7.8,79,Nicolas Winding Refn,684427,35.06M,None
+610,Irlandczyk,(2019),"Biography, Crime, Drama",209 min,7.8,94,Martin Scorsese,415321,7.00M,None
+611,Małe kobietki,(2019),"Drama, Romance",135 min,7.8,91,Greta Gerwig,230250,108.10M,None
+612,Pamiętnik,(2004),"Drama, Romance",123 min,7.8,53,Nick Cassavetes,600864,81.00M,None
+613,Tombstone,(1993),"Biography, Drama, History",130 min,7.8,50,None,160349,56.51M,None
+614,Hobbit: Niezwykła podróż,(2012),"Adventure, Fantasy",169 min,7.8,58,Peter Jackson,855162,303.00M,None
+615,Kot w butach: Ostatnie życzenie,(2022),"Animation, Adventure, Comedy",102 min,7.8,73,None,157555,168.46M,None
+616,Klub winowajców,(1985),"Comedy, Drama",97 min,7.8,66,John Hughes,424840,45.88M,None
+617,Na Zachodzie bez zmian,(2022),"Action, Drama, War",148 min,7.8,76,Edward Berger,224833,None,None
+618,Nienawistna ósemka,(2015),"Crime, Drama, Mystery",168 min,7.8,68,Quentin Tarantino,639228,54.12M,None
+619,Gwiezdne wojny: Przebudzenie Mocy,(2015),"Action, Adventure, Sci-Fi",138 min,7.8,80,J.J. Abrams,958814,936.66M,None
+620,Dziewczyna z tatuażem,(2011),"Crime, Drama, Mystery",158 min,7.8,71,David Fincher,482661,102.52M,None
+621,Ukryte działania,(2016),"Biography, Drama, History",127 min,7.8,74,Theodore Melfi,247002,169.61M,None
+622,Mary Poppins,(1964),"Comedy, Family, Fantasy",139 min,7.8,88,Robert Stevenson,181358,102.27M,None
+623,Misery,(1990),"Drama, Thriller",107 min,7.8,75,Rob Reiner,227119,61.28M,None
+624,Czas na miłość,(I) (2013),"Comedy, Drama, Fantasy",123 min,7.8,55,Richard Curtis,373333,15.32M,None
+625,Ścigany,(1993),"Action, Crime, Drama",130 min,7.8,87,Andrew Davis,310250,183.88M,None
+626,Tytani,(2000),"Biography, Drama, Sport",113 min,7.8,48,Boaz Yakin,226766,115.65M,None
+627,Predator,(1987),"Action, Adventure, Horror",107 min,7.8,47,John McTiernan,442716,59.74M,None
+628,"Tamte dni, tamte noce",(2017),"Drama, Romance",132 min,7.8,94,Luca Guadagnino,299059,18.10M,None
+629,Noc żywych trupów,(1968),"Horror, Thriller",96 min,7.8,89,George A. Romero,135720,0.09M,None
+630,Dunkierka,(2017),"Action, Drama, History",106 min,7.8,94,Christopher Nolan,714902,188.37M,None
+631,Skyfall,(2012),"Action, Adventure, Thriller",143 min,7.8,81,Sam Mendes,718708,304.36M,None
+632,Hobbit: Pustkowie Smauga,(2013),"Adventure, Drama, Fantasy",161 min,7.8,66,Peter Jackson,689366,258.37M,None
+633,The Social Network,(2010),"Biography, Drama",120 min,7.8,95,David Fincher,738280,96.96M,None
+634,RRR,(2022),"Action, Drama",187 min,7.8,83,S.S. Rajamouli,158001,14.50M,None
+635,Prawo Bronxu,(1993),"Crime, Drama",121 min,7.8,80,Robert De Niro,154375,17.27M,None
+636,Najgorszy człowiek na świecie,(2021),"Comedy, Drama, Romance",128 min,7.8,90,Joachim Trier,87501,None,None
+637,Wolny strzelec,(2014),"Crime, Drama, Thriller",117 min,7.8,76,Dan Gilroy,585321,32.38M,None
+638,American Gangster,(2007),"Biography, Crime, Drama",157 min,7.8,76,Ridley Scott,443456,130.16M,None
+639,Pokuta,(2007),"Drama, Mystery, Romance",123 min,7.8,85,Joe Wright,292921,50.93M,None
+640,Hot Fuzz. Ostre psy,(2007),"Action, Comedy, Mystery",121 min,7.8,81,Edgar Wright,525355,23.64M,None
+641,Ciekawy przypadek Benjamina Buttona,(2008),"Drama, Fantasy, Romance",166 min,7.8,70,David Fincher,679755,127.51M,None
+642,Gasnący płomień,(1944),"Crime, Drama, Mystery",114 min,7.8,78,George Cukor,32482,None,None
+643,Amatorzy sportu,(1993),"Comedy, Drama, Family",101 min,7.8,55,David Mickey Evans,99388,32.42M,None
+644,Manchester by the Sea,(2016),Drama,137 min,7.8,96,Kenneth Lonergan,301561,47.70M,None
+645,Uprowadzona,(I) (2008),"Action, Crime, Thriller",90 min,7.8,51,Pierre Morel,622330,145.00M,None
+646,Nietykalni,(1987),"Crime, Drama, Thriller",119 min,7.8,79,Brian De Palma,324090,76.27M,None
+647,Mała miss,(2006),"Comedy, Drama",101 min,7.8,80,None,505562,59.89M,None
+648,Fighter,(I) (2010),"Action, Biography, Drama",116 min,7.8,79,David O. Russell,382418,93.62M,None
+649,Frankenstein,(1931),"Drama, Horror, Sci-Fi",70 min,7.8,91,James Whale,77436,None,None
+650,Tożsamość Bourne\'a,(2002),"Action, Mystery, Thriller",119 min,7.8,68,Doug Liman,566156,121.66M,None
+651,Pozwól mi wejść,(2008),"Drama, Fantasy, Horror",114 min,7.8,82,Tomas Alfredson,223567,2.12M,None
+652,Ostatni samuraj,(2003),"Action, Drama",154 min,7.8,55,Edward Zwick,460047,111.11M,None
+653,Powrót do przyszłości II,(1989),"Adventure, Comedy, Sci-Fi",108 min,7.8,57,Robert Zemeckis,559181,118.50M,None
+654,Święta góra,(1973),"Adventure, Drama, Fantasy",114 min,7.8,76,Alejandro Jodorowsky,46551,0.06M,None
+655,Ujrzałem diabła,(2010),"Action, Crime, Thriller",144 min,7.8,67,Jee-woon Kim,141178,0.13M,None
+656,Blisko,(I) (2022),Drama,104 min,7.8,81,Lukas Dhont,29071,None,None
+657,Świt żywych trupów,(1978),"Horror, Thriller",127 min,7.8,71,George A. Romero,125988,5.10M,None
+658,Wielka Szóstka,(2014),"Animation, Action, Adventure",102 min,7.8,74,None,487588,222.53M,None
+659,Chłopaki z sąsiedztwa,(1991),"Crime, Drama",112 min,7.8,76,John Singleton,149736,57.50M,None
+660,Cast Away - poza światem,(2000),"Adventure, Drama, Romance",143 min,7.8,73,Robert Zemeckis,622290,233.63M,None
+661,Kapitan Ameryka: Wojna Bohaterów,(2016),"Action, Sci-Fi",147 min,7.8,75,None,829046,408.08M,None
+662,Kochankowie z Księżyca,(2012),"Comedy, Drama, Family",94 min,7.8,84,Wes Anderson,362315,45.51M,None
+663,Król komedii,(1982),"Comedy, Crime, Drama",109 min,7.8,73,Martin Scorsese,113703,2.50M,None
+664,Kapitan Ameryka: Zimowy Żołnierz,(2014),"Action, Adventure, Sci-Fi",136 min,7.8,70,None,881610,259.77M,None
+665,Captain Fantastic,(2016),"Comedy, Drama",118 min,7.8,72,Matt Ross,229525,5.88M,None
+666,Magia uczuć,(I) (2006),"Adventure, Drama, Fantasy",117 min,7.8,64,Tarsem Singh,115321,2.28M,None
+667,Jujutsu Kaisen 0: The Movie,(2021),"Animation, Action, Fantasy",105 min,7.8,71,Seong-Hu Park,29614,34.54M,None
+668,Okruchy dnia,(1993),"Drama, Romance",134 min,7.8,86,James Ivory,81039,22.95M,None
+669,Człowiek z Ziemi,(2007),"Drama, Fantasy, Mystery",87 min,7.8,None,Richard Schenkman,195620,None,None
+670,Serenity,(2005),"Action, Adventure, Sci-Fi",119 min,7.8,74,Joss Whedon,302650,25.51M,None
+671,Moon,(2009),"Drama, Mystery, Sci-Fi",97 min,7.8,67,Duncan Jones,370831,5.01M,None
+672,Nocny kowboj,(1969),Drama,113 min,7.8,79,John Schlesinger,117235,44.79M,None
+673,Wyspa psów,(2018),"Animation, Adventure, Comedy",101 min,7.8,82,Wes Anderson,184642,32.02M,None
+674,Dzikie łowy,(2016),"Adventure, Comedy, Drama",101 min,7.8,81,Taika Waititi,137826,5.20M,None
+675,Spacer po linie,(2005),"Biography, Drama, Music",136 min,7.8,72,James Mangold,260979,119.52M,None
+676,Narzeczona Frankensteina,(1935),"Drama, Horror, Sci-Fi",75 min,7.8,95,James Whale,51588,4.36M,None
+677,"Millennium: Mężczyźni, którzy nienawidzą kobiet",(2009),"Crime, Drama, Mystery",152 min,7.8,76,Niels Arden Oplev,221076,10.10M,None
+678,Oszukana,(2008),"Biography, Crime, Drama",141 min,7.8,63,Clint Eastwood,262335,35.74M,None
+679,Straight Outta Compton,(2015),"Biography, Drama, History",147 min,7.8,72,F. Gary Gray,213158,161.20M,None
+680,Mississippi w ogniu,(1988),"Crime, Drama, Mystery",128 min,7.8,65,Alan Parker,106698,34.60M,None
+681,Kapitan Phillips,(2013),"Action, Biography, Crime",134 min,7.8,82,Paul Greengrass,482307,107.10M,None
+682,Koneser,(2013),"Crime, Drama, Mystery",131 min,7.8,49,Giuseppe Tornatore,125645,0.09M,None
+683,Podniebna poczta Kiki,(1989),"Animation, Family, Fantasy",103 min,7.8,85,Hayao Miyazaki,156998,None,None
+684,Ed Wood,(1994),"Biography, Comedy, Drama",127 min,7.8,70,Tim Burton,181614,5.89M,None
+685,Kabaret,(1972),"Drama, Music, Musical",124 min,7.8,80,Bob Fosse,58040,42.77M,None
+686,Trzynastu,(2022),"Action, Adventure, Biography",147 min,7.8,66,Ron Howard,64168,None,None
+687,Paddington 2,(2017),"Adventure, Comedy, Family",103 min,7.8,88,Paul King,87971,40.44M,None
+688,Dziwolągi,(1932),"Drama, Horror",64 min,7.8,80,Tod Browning,49218,0.63M,None
+689,Dosięgnąć kosmosu,(1999),"Biography, Drama, Family",108 min,7.8,71,Joe Johnston,96108,32.48M,None
+690,Rzeka Czerwona,(1948),"Drama, Western",133 min,7.8,96,None,33327,None,None
+691,Przebudzenia,(1990),"Biography, Drama",121 min,7.8,74,Penny Marshall,153453,52.10M,None
+692,Chwała,(1989),"Biography, Drama, History",122 min,7.8,78,Edward Zwick,141297,26.83M,None
+693,Jak wytresować smoka 2,(2014),"Animation, Action, Adventure",102 min,7.8,77,Dean DeBlois,354604,177.00M,None
+694,My Fair Lady,(1964),"Drama, Family, Musical",170 min,7.8,95,George Cukor,99593,72.00M,None
+695,Rozmowa,(1974),"Drama, Mystery, Thriller",113 min,7.8,87,Francis Ford Coppola,117950,4.42M,None
+696,Informator,(1999),"Biography, Drama, Thriller",157 min,7.8,84,Michael Mann,177264,28.97M,None
+697,Dyliżans,(1939),"Adventure, Drama, Western",96 min,7.8,93,John Ford,52347,None,None
+698,Once,(I) (2007),"Drama, Music, Romance",86 min,7.8,90,John Carney,119909,9.44M,None
+699,Dzień Szakala,(1973),"Crime, Drama, Thriller",143 min,7.8,80,Fred Zinnemann,43690,16.06M,None
+700,"Dzień, w którym zatrzymała się Ziemia",(1951),"Drama, Sci-Fi",92 min,7.8,83,Robert Wise,84622,None,None
+701,Cień wątpliwości,(1943),"Film-Noir, Thriller",108 min,7.8,94,Alfred Hitchcock,68970,None,None
+702,Lilja 4-ever,(2002),"Crime, Drama",109 min,7.8,83,Lukas Moodysson,48145,0.18M,None
+703,Poszukiwacze,(1956),"Adventure, Drama, Western",119 min,7.8,94,John Ford,94206,None,None
+704,Niebiańskie dni,(1978),"Drama, Romance",94 min,7.8,93,Terrence Malick,61173,None,None
+705,Cały ten zgiełk,(1979),"Drama, Music, Musical",123 min,7.8,72,Bob Fosse,34171,37.82M,None
+706,Pierwszy krok w kosmos,(1983),"Adventure, Biography, Drama",193 min,7.8,91,Philip Kaufman,64205,21.50M,None
+707,Wyjęty spod prawa Josey Wales,(1976),Western,135 min,7.8,69,Clint Eastwood,78021,31.80M,None
+708,Sprawa Kramerów,(1979),Drama,105 min,7.8,77,Robert Benton,151641,106.26M,None
+709,Przełamując fale,(1996),Drama,159 min,7.8,82,Lars von Trier,70230,4.04M,None
+710,W kleszczach lęku,(1961),Horror,100 min,7.8,88,Jack Clayton,32307,2.62M,None
+711,Hannah i jej siostry,(1986),"Comedy, Drama",107 min,7.8,90,Woody Allen,74711,40.08M,None
+712,Listy z Iwo Jimy,(2006),"Action, Adventure, Drama",141 min,7.8,89,Clint Eastwood,167942,13.76M,None
+713,W pogoni,(2008),"Action, Crime, Drama",125 min,7.8,64,Na Hong-jin,70730,None,None
+714,Moja lewa stopa,(1989),"Biography, Drama",103 min,7.8,97,Jim Sheridan,78100,14.74M,None
+715,Pola śmierci,(1984),"Biography, Drama, History",141 min,7.8,76,Roland Joffé,58030,34.70M,None
+716,Szept serca,(1995),"Animation, Drama, Family",111 min,7.8,75,Yoshifumi Kondô,68932,None,None
+717,Manhattan,(1979),"Comedy, Drama, Romance",96 min,7.8,83,Woody Allen,144613,45.70M,None
+718,Twój Vincent,(2017),"Animation, Drama, Mystery",94 min,7.8,62,None,61750,6.74M,None
+719,Wszystko o mojej matce,(1999),"Comedy, Drama, Romance",101 min,7.8,87,Pedro Almodóvar,101107,8.26M,None
+720,"Aguirre, gniew boży",(1972),"Action, Adventure, Biography",95 min,7.8,None,Werner Herzog,60334,None,None
+721,Na wschód od Edenu,(1955),Drama,118 min,7.8,72,Elia Kazan,47893,None,None
+722,Dumni i wściekli,(I) (2014),"Biography, Comedy, Drama",119 min,7.8,79,Matthew Warchus,60511,None,None
+723,Asfaltowa dżungla,(1950),"Crime, Drama, Film-Noir",112 min,7.8,85,John Huston,29057,None,None
+724,Biała wstążka,(2009),"Drama, Mystery, Thriller",144 min,7.8,84,Michael Haneke,76409,2.22M,None
+725,Jûbê ninpûchô,(1993),"Animation, Action, Adventure",94 min,7.8,None,Yoshiaki Kawajiri,39607,None,None
+726,Pole minowe,(2015),"Drama, History, War",100 min,7.8,75,Martin Zandvliet,44369,0.44M,None
+727,Mieć i nie mieć,(1944),"Adventure, Comedy, Film-Noir",100 min,7.8,90,Howard Hawks,37265,None,None
+728,"Zgadnij, kto przyjdzie na obiad",(1967),"Comedy, Drama",108 min,7.8,63,Stanley Kramer,47839,56.70M,None
+729,"Człowiek, który chciał być królem",(1975),"Adventure, War",129 min,7.8,91,John Huston,51126,None,None
+730,"Ja, Daniel Blake",(2016),Drama,100 min,7.8,78,Ken Loach,63246,0.26M,None
+731,Prawdziwa historia,(2005),"Biography, Drama, Sport",127 min,7.8,68,Roger Donaldson,57223,5.13M,None
+732,Pewnego razu w Anatolii,(2011),"Crime, Drama, Thriller",157 min,7.8,82,Nuri Bilge Ceylan,48864,0.14M,None
+733,Prorok,(2009),"Crime, Drama",155 min,7.8,90,Jacques Audiard,101051,2.08M,None
+734,Batman: Maska Batmana,(1993),"Animation, Action, Adventure",76 min,7.8,65,None,55029,5.62M,None
+735,Cowboy Bebop: Tengoku no tobira,(2001),"Animation, Action, Crime",115 min,7.8,61,None,51607,1.00M,None
+736,Cieszmy się życiem,(1938),"Comedy, Drama, Romance",126 min,7.8,None,Frank Capra,27168,4.66M,None
+737,Parasolki z Cherbourga,(1964),"Drama, Musical, Romance",91 min,7.8,86,Jacques Demy,30180,0.03M,None
+738,Pan od muzyki,(2004),"Drama, Music",97 min,7.8,56,Christophe Barratier,65666,3.64M,None
+739,Smak curry,(2013),"Drama, Romance",104 min,7.8,76,Ritesh Batra,59474,4.23M,None
+740,Płatny morderca,(1989),"Action, Crime, Drama",111 min,7.8,82,John Woo,50200,None,None
+741,Dziewczyna Piętaszek,(1940),"Comedy, Drama, Romance",92 min,7.8,None,Howard Hawks,61785,0.30M,None
+742,Dyskretny urok burżuazji,(1972),Comedy,102 min,7.8,93,Luis Buñuel,45558,0.20M,None
+743,Jak ojciec i syn,(2013),Drama,121 min,7.8,73,Hirokazu Koreeda,27146,0.28M,None
+744,Noc w operze,(1935),"Comedy, Music, Musical",96 min,7.8,None,None,34185,2.54M,None
+745,Kacza zupa,(1933),"Comedy, Musical",69 min,7.8,93,Leo McCarey,61952,None,None
+746,Zbrodnie i wykroczenia,(1989),"Comedy, Drama",104 min,7.8,77,Woody Allen,60006,18.25M,None
+747,Drapieżne maleństwo,(1938),Comedy,102 min,7.8,91,Howard Hawks,64758,None,None
+748,Rodzice chrzestni z Tokio,(2003),"Animation, Adventure, Comedy",92 min,7.8,74,Satoshi Kon,44263,0.13M,None
+749,"Hiroszima, moja miłość",(1959),"Drama, Romance",90 min,7.8,None,Alain Resnais,34842,0.09M,None
+750,Listonosz,(1994),"Biography, Comedy, Drama",108 min,7.8,81,None,38318,21.85M,None
+751,Millennium Actress,(2001),"Animation, Drama, Fantasy",87 min,7.8,70,Satoshi Kon,30692,0.19M,None
+752,Żyć własnym życiem,(1962),Drama,80 min,7.8,None,Jean-Luc Godard,34172,None,None
+753,Veer-Zaara,(2004),"Drama, Family, Musical",192 min,7.8,67,Yash Chopra,55905,2.92M,None
+754,Pukając do nieba bram,(1997),"Action, Crime, Comedy",87 min,7.8,None,Thomas Jahn,32737,0.00M,None
+755,Nazywam się Cukinia,(2016),"Animation, Comedy, Drama",66 min,7.8,85,Claude Barras,28036,0.29M,None
+756,English Vinglish,(2012),"Comedy, Drama, Family",134 min,7.8,None,Gauri Shinde,38143,1.67M,None
+757,Hindi Medium,(2017),"Comedy, Drama",132 min,7.8,None,Saket Chaudhary,31232,None,None
+758,Vicky Donor,(2012),"Comedy, Romance",126 min,7.8,None,Shoojit Sircar,44808,0.17M,None
+759,Halloween,(1978),"Horror, Thriller",91 min,7.7,87,John Carpenter,296338,47.00M,None
+760,Koralina i tajemnicze drzwi,(2009),"Animation, Drama, Family",100 min,7.7,80,Henry Selick,253710,75.29M,None
+761,Goonies,(1985),"Adventure, Comedy, Family",114 min,7.7,62,Richard Donner,290720,61.50M,None
+762,Sicario,(2015),"Action, Crime, Drama",121 min,7.7,82,Denis Villeneuve,457258,46.89M,None
+763,Wieloryb,(2022),Drama,117 min,7.7,60,Darren Aronofsky,183439,None,None
+764,Harry Potter i Czara Ognia,(2005),"Adventure, Family, Fantasy",157 min,7.7,81,Mike Newell,660727,290.01M,None
+765,Mission: Impossible - Fallout,(2018),"Action, Adventure, Thriller",147 min,7.7,86,Christopher McQuarrie,366408,220.16M,None
+766,Człowiek w ogniu,(2004),"Action, Crime, Drama",146 min,7.7,47,Tony Scott,380276,77.91M,None
+767,Duchy Inisherin,(2022),"Comedy, Drama",114 min,7.7,87,Martin McDonagh,229651,None,None
+768,Helikopter w ogniu,(2001),"Action, Drama, History",144 min,7.7,74,Ridley Scott,414433,108.64M,None
+769,Co gryzie Gilberta Grape\'a,(1993),Drama,118 min,7.7,73,Lasse Hallström,248490,9.17M,None
+770,Aftersun,(II) (2022),Drama,102 min,7.7,95,Charlotte Wells,76739,None,None
+771,Kingsman: Tajne służby,(2014),"Action, Adventure, Comedy",129 min,7.7,60,Matthew Vaughn,699198,128.26M,None
+772,Wind River. Na przeklętej ziemi,(2017),"Crime, Drama, Mystery",107 min,7.7,73,Taylor Sheridan,269824,33.80M,None
+773,Zodiak,(2007),"Crime, Drama, Mystery",157 min,7.7,79,David Fincher,577940,33.08M,None
+774,Kac Vegas,(2009),Comedy,100 min,7.7,73,Todd Phillips,823989,277.32M,None
+775,Mr. Nobody,(2009),"Drama, Fantasy, Romance",141 min,7.7,63,Jaco Van Dormael,242122,0.00M,None
+776,Przylądek strachu,(1962),"Drama, Thriller",106 min,7.7,76,J. Lee Thompson,30953,None,None
+777,Kevin sam w domu,(1990),"Comedy, Family",103 min,7.7,63,Chris Columbus,614507,285.76M,None
+778,Harry Potter i Insygnia Śmierci: Część I,(2010),"Adventure, Family, Fantasy",146 min,7.7,65,David Yates,580460,295.98M,None
+779,Ludzie honoru,(1992),"Drama, Thriller",138 min,7.7,62,Rob Reiner,279634,141.34M,None
+780,Między słowami,(2003),"Comedy, Drama",102 min,7.7,91,Sofia Coppola,476120,44.59M,None
+781,Życie Adeli - Rozdział 1 i 2,(2013),"Drama, Romance",180 min,7.7,90,Abdellatif Kechiche,159679,2.20M,None
+782,Ex Machina,(2014),"Drama, Sci-Fi, Thriller",108 min,7.7,78,Alex Garland,571151,25.44M,None
+783,Czy leci z nami pilot?,(1980),Comedy,88 min,7.7,78,None,253693,83.40M,None
+784,Dzień próby,(2001),"Action, Crime, Drama",122 min,7.7,71,Antoine Fuqua,460031,76.63M,None
+785,500 dni miłości,(2009),"Comedy, Drama, Romance",95 min,7.7,76,Marc Webb,542296,32.39M,None
+786,Martwe zło 2,(1987),"Comedy, Horror",84 min,7.7,72,Sam Raimi,177697,5.92M,None
+787,Kolor purpury,(1985),Drama,154 min,7.7,78,Steven Spielberg,92510,98.47M,None
+788,Tajemnica Brokeback Mountain,(2005),"Drama, Romance",134 min,7.7,87,Ang Lee,373609,83.04M,None
+789,Gra,(1997),"Drama, Mystery, Thriller",129 min,7.7,63,David Fincher,417332,48.32M,None
+790,I twoją matkę też,(2001),Drama,106 min,7.7,89,Alfonso Cuarón,127246,13.62M,None
+791,Ocean\'s Eleven: Ryzykowna gra,(2001),"Crime, Thriller",116 min,7.7,74,Steven Soderbergh,603582,183.42M,None
+792,Zaplątani,(2010),"Animation, Adventure, Comedy",100 min,7.7,71,None,479934,200.82M,None
+793,Hrabia Monte Christo,(2002),"Action, Adventure, Drama",131 min,7.7,61,Kevin Reynolds,145504,54.23M,None
+794,Kiedy Harry poznał Sally,(1989),"Comedy, Drama, Romance",95 min,7.7,76,Rob Reiner,233920,92.82M,None
+795,Chłopiec w pasiastej piżamie,(2008),"Drama, War",94 min,7.7,55,Mark Herman,236451,9.03M,None
+796,Płonące siodła,(1974),"Comedy, Western",93 min,7.7,73,Mel Brooks,147685,119.50M,None
+797,Ostatni Mohikanin,(1992),"Action, Adventure, Drama",112 min,7.7,76,Michael Mann,181602,75.51M,None
+798,Francuski łącznik,(1971),"Action, Crime, Drama",104 min,7.7,94,William Friedkin,131531,15.63M,None
+799,Rambo: Pierwsza krew,(1982),"Action, Adventure, Thriller",93 min,7.7,61,Ted Kotcheff,267898,47.21M,None
+800,Blue Velvet,(1986),"Crime, Drama, Mystery",120 min,7.7,76,David Lynch,210176,8.55M,None
+801,Poradnik pozytywnego myślenia,(2012),"Comedy, Drama, Romance",122 min,7.7,81,David O. Russell,730364,132.09M,None
+802,Imię róży,(1986),"Drama, Mystery, Thriller",130 min,7.7,54,Jean-Jacques Annaud,113975,7.15M,None
+803,Uwolnienie,(1972),"Adventure, Drama, Thriller",109 min,7.7,80,John Boorman,116831,7.06M,None
+804,Święci z Bostonu,(1999),"Action, Crime, Thriller",108 min,7.7,44,Troy Duffy,246387,0.03M,None
+805,Birdman,(2014),"Comedy, Drama",119 min,7.7,87,Alejandro G. Iñárritu,654001,42.34M,None
+806,X-Men: Pierwsza klasa,(2011),"Action, Sci-Fi",131 min,7.7,65,Matthew Vaughn,712765,146.41M,None
+807,Apollo 13,(I) (1995),"Adventure, Drama, History",140 min,7.7,77,Ron Howard,308180,173.84M,None
+808,Operacja Argo,(2012),"Biography, Drama, Thriller",120 min,7.7,86,Ben Affleck,630705,136.03M,None
+809,Miasto gniewu,(I) (2004),"Crime, Drama, Thriller",112 min,7.7,66,Paul Haggis,445204,54.58M,None
+810,LEGO® PRZYGODA,(2014),"Animation, Action, Adventure",100 min,7.7,83,None,379329,257.76M,None
+811,Bunt na okręcie,(1954),"Drama, War",124 min,7.7,63,Edward Dmytryk,29182,21.75M,None
+812,Na rauszu,(2020),Drama,117 min,7.7,79,Thomas Vinterberg,182519,None,None
+813,Toy Story 4,(2019),"Animation, Adventure, Comedy",100 min,7.7,84,Josh Cooley,270203,434.04M,None
+814,Lepiej być nie może,(1997),"Comedy, Drama, Romance",139 min,7.7,67,James L. Brooks,312118,148.48M,None
+815,Imperium Słońca,(1987),"Drama, War",153 min,7.7,62,Steven Spielberg,131866,22.24M,None
+816,Grawitacja,(2013),"Drama, Sci-Fi, Thriller",91 min,7.7,96,Alfonso Cuarón,849764,274.09M,None
+817,Kto wrobił królika Rogera?,(1988),"Adventure, Comedy, Crime",104 min,7.7,83,Robert Zemeckis,211832,156.45M,None
+818,Lęk pierwotny,(1996),"Crime, Drama, Mystery",129 min,7.7,47,Gregory Hoblit,239423,56.12M,None
+819,"Bracie, gdzie jesteś?",(2000),"Adventure, Comedy, Crime",107 min,7.7,69,None,324352,45.51M,None
+820,Dźwięk metalu,(2019),"Drama, Music",120 min,7.7,82,Darius Marder,143032,None,None
+821,Rozważna i romantyczna,(1995),"Drama, Romance",136 min,7.7,84,Ang Lee,122361,43.18M,None
+822,Gattaca - szok przyszłości,(1997),"Drama, Sci-Fi, Thriller",106 min,7.7,64,Andrew Niccol,316709,12.34M,None
+823,Donnie Brasco,(1997),"Biography, Crime, Drama",127 min,7.7,76,Mike Newell,323715,41.91M,None
+824,Siedmiu wspaniałych,(1960),"Action, Adventure, Drama",128 min,7.7,74,John Sturges,100094,4.91M,None
+825,Gwiazd naszych wina,(2014),"Drama, Romance",126 min,7.7,69,Josh Boone,393489,124.87M,None
+826,Ralph Demolka,(2012),"Animation, Adventure, Comedy",101 min,7.7,72,Rich Moore,446514,189.42M,None
+827,Goldfinger,(1964),"Action, Adventure, Thriller",110 min,7.7,87,Guy Hamilton,198432,51.08M,None
+828,Nadzy,(1993),"Comedy, Drama",131 min,7.7,85,Mike Leigh,42499,1.77M,None
+829,Smażone zielone pomidory,(1991),Drama,130 min,7.7,64,Jon Avnet,79795,82.42M,None
+830,To właśnie Anglia,(2006),"Crime, Drama",101 min,7.7,86,Shane Meadows,126694,0.33M,None
+831,Krucjata Bourne\'a,(2004),"Action, Mystery, Thriller",108 min,7.7,73,Paul Greengrass,479292,176.24M,None
+832,Filadelfia,(1993),Drama,125 min,7.7,66,Jonathan Demme,252897,77.32M,None
+833,Z dystansu,(2011),Drama,98 min,7.7,52,Tony Kaye,94855,0.07M,None
+834,Droga do zatracenia,(2002),"Crime, Drama, Thriller",117 min,7.7,72,Sam Mendes,279459,104.45M,None
+835,3:10 do Yumy,(2007),"Action, Crime, Drama",122 min,7.7,76,James Mangold,325454,53.61M,None
+836,Happiness,(1998),"Comedy, Drama",134 min,7.7,81,Todd Solondz,73159,2.81M,None
+837,Adaptacja,(2002),"Comedy, Drama",115 min,7.7,83,Spike Jonze,199466,22.25M,None
+838,Być jak John Malkovich,(1999),"Comedy, Drama, Fantasy",113 min,7.7,90,Spike Jonze,347975,22.86M,None
+839,Teoria wszystkiego,(2014),"Biography, Drama, Romance",123 min,7.7,71,James Marsh,471834,35.89M,None
+840,Billy Elliot,(2000),"Drama, Music",110 min,7.7,74,Stephen Daldry,140127,22.00M,None
+841,Mężczyzna imieniem Ove,(2015),"Comedy, Drama, Romance",116 min,7.7,70,Hannes Holm,66099,3.48M,None
+842,Malcolm X,(1992),"Biography, Drama, History",202 min,7.7,73,Spike Lee,99800,48.17M,None
+843,Proces Siódemki z Chicago,(2020),"Drama, History, Thriller",129 min,7.7,76,Aaron Sorkin,188308,None,None
+844,W ciemność. Star Trek,(2013),"Action, Adventure, Sci-Fi",132 min,7.7,72,J.J. Abrams,492986,228.78M,None
+845,Dziewczyna i chłopak - wszystko na opak,(I) (2010),"Comedy, Drama, Romance",90 min,7.7,45,Rob Reiner,95067,1.75M,None
+846,Kung Fu Szał,(2004),"Action, Comedy, Fantasy",99 min,7.7,78,Stephen Chow,147498,17.11M,None
+847,Brudny Harry,(1971),"Action, Crime, Thriller",102 min,7.7,87,None,164934,35.90M,None
+848,Glengarry Glen Ross,(1992),"Crime, Drama, Mystery",100 min,7.7,82,James Foley,112984,10.73M,None
+849,Paprika,(2006),"Animation, Drama, Fantasy",90 min,7.7,81,Satoshi Kon,91739,0.88M,None
+850,Zniknięcie,(1988),"Mystery, Thriller",107 min,7.7,None,George Sluizer,41982,None,None
+851,Star Trek II: Gniew Khana,(1982),"Action, Adventure, Sci-Fi",113 min,7.7,68,Nicholas Meyer,127129,78.91M,None
+852,Werdykt,(1982),Drama,129 min,7.7,77,Sidney Lumet,44424,54.00M,None
+853,Zabójczy numer,(2006),"Crime, Drama, Thriller",110 min,7.7,53,Paul McGuigan,321746,22.49M,None
+854,Bonnie i Clyde,(1967),"Action, Biography, Crime",111 min,7.7,86,Arthur Penn,118161,None,None
+855,Clerks: Sprzedawcy,(1994),Comedy,92 min,7.7,70,Kevin Smith,229378,3.15M,None
+856,Badlands,(1973),"Action, Crime, Drama",94 min,7.7,93,Terrence Malick,76663,None,None
+857,Oto jest głowa zdrajcy,(1966),"Biography, Drama, History",120 min,7.7,72,Fred Zinnemann,36433,28.35M,None
+858,Czarna księga,(2006),"Drama, Thriller, War",145 min,7.7,71,Paul Verhoeven,79351,4.40M,None
+859,Piękność dnia,(1967),"Drama, Romance",100 min,7.7,None,Luis Buñuel,47583,0.03M,None
+860,Inwazja porywaczy ciał,(1956),"Drama, Horror, Sci-Fi",80 min,7.7,92,Don Siegel,53305,None,None
+861,Roma,(2018),Drama,135 min,7.7,96,Alfonso Cuarón,166262,None,None
+862,Parszywa dwunastka,(1967),"Action, Adventure, War",150 min,7.7,73,Robert Aldrich,77443,45.30M,None
+863,Zrywa się wiatr,(2013),"Animation, Biography, Drama",126 min,7.7,83,Hayao Miyazaki,93562,5.21M,None
+864,Wielkie piękno,(2013),Drama,141 min,7.7,86,Paolo Sorrentino,95609,2.85M,None
+865,Ray,(I) (2004),"Biography, Drama, Music",152 min,7.7,73,Taylor Hackford,154622,75.33M,None
+866,Serpico,(1973),"Biography, Crime, Drama",130 min,7.7,83,Sidney Lumet,131151,29.80M,None
+867,Matka,(2009),"Crime, Drama, Mystery",129 min,7.7,79,Bong Joon Ho,69417,0.55M,None
+868,Ostatni cesarz,(1987),"Biography, Drama, History",163 min,7.7,76,Bernardo Bertolucci,108909,43.98M,None
+869,Hamlet,(1996),Drama,242 min,7.7,None,Kenneth Branagh,39387,4.41M,None
+870,"Biegnij, Lola, biegnij",(1998),"Action, Crime, Thriller",81 min,7.7,77,Tom Tykwer,204153,7.27M,None
+871,Zwykli ludzie,(1980),Drama,124 min,7.7,86,Robert Redford,55280,54.80M,None
+872,Ścieżka strachu,(1990),"Crime, Drama, Thriller",115 min,7.7,66,None,139758,5.08M,None
+873,Kubo i dwie struny,(2016),"Animation, Action, Adventure",101 min,7.7,84,Travis Knight,136079,48.02M,None
+874,"Earl i ja, i umierająca dziewczyna",(2015),"Comedy, Drama, Romance",105 min,7.7,74,Alfonso Gomez-Rejon,136324,6.74M,None
+875,Spokojny człowiek,(1952),"Comedy, Drama, Romance",129 min,7.7,85,John Ford,41185,10.55M,None
+876,Fantazja,(1940),"Animation, Family, Fantasy",124 min,7.7,96,None,101538,76.41M,None
+877,Marzyciel,(2004),"Biography, Drama, Family",106 min,7.7,67,Marc Forster,210320,51.68M,None
+878,Miasteczko South Park,(1999),"Animation, Comedy, Fantasy",81 min,7.7,73,Trey Parker,211875,52.04M,None
+879,Zło,(2003),Drama,113 min,7.7,61,Mikael Håfström,40807,0.02M,None
+880,Otwórz oczy,(1997),"Drama, Mystery, Sci-Fi",119 min,7.7,None,Alejandro Amenábar,72111,0.37M,None
+881,Człowiek znikąd,(2010),"Action, Crime, Drama",119 min,7.7,None,Jeong-beom Lee,73116,0.01M,None
+882,Doczekać zmroku,(1967),Thriller,108 min,7.7,81,Terence Young,32776,17.55M,None
+883,Na skróty,(1993),"Comedy, Drama",188 min,7.7,81,Robert Altman,46694,6.11M,None
+884,Najdłuższy dzień,(1962),"Action, Drama, History",178 min,7.7,75,None,58139,39.10M,None
+885,Marty,(1955),"Drama, Romance",90 min,7.7,82,Delbert Mann,26164,None,None
+886,Życie świadome,(2001),"Animation, Drama, Fantasy",99 min,7.7,84,Richard Linklater,66168,2.89M,None
+887,Szkarłatny pilot,(1992),"Animation, Adventure, Comedy",94 min,7.7,83,Hayao Miyazaki,97172,None,None
+888,Dzika planeta,(1973),"Animation, Sci-Fi",72 min,7.7,73,René Laloux,35366,0.19M,None
+889,Cal do szczęścia,(2001),"Comedy, Drama, Music",95 min,7.7,85,John Cameron Mitchell,36908,3.03M,None
+890,Beasts of No Nation,(2015),"Drama, War",137 min,7.7,79,Cary Joji Fukunaga,85258,0.08M,None
+891,Dobrze się kłamie w miłym towarzystwie,(2016),"Comedy, Drama",96 min,7.7,None,Paolo Genovese,69491,None,None
+892,Do utraty tchu,(1960),"Crime, Drama",90 min,7.7,None,Jean-Luc Godard,86088,0.34M,None
+893,Człowiek z blizną,(1932),"Action, Crime, Drama",93 min,7.7,90,None,29547,None,None
+894,Zulu,(1964),"Drama, History, War",138 min,7.7,77,Cy Endfield,41594,None,None
+895,Afrykańska królowa,(1951),"Adventure, Drama, Romance",105 min,7.7,91,John Huston,82548,0.54M,None
+896,Noc na Ziemi,(1991),"Comedy, Drama",129 min,7.7,68,Jim Jarmusch,64286,2.02M,None
+897,Dzienniki motocyklowe,(2004),"Adventure, Biography, Drama",126 min,7.7,75,Walter Salles,103824,16.78M,None
+898,Good Bye Lenin!,(2003),"Comedy, Drama, Romance",121 min,7.7,68,Wolfgang Becker,150680,4.06M,None
+899,Dzieci triady,(1992),"Action, Crime, Thriller",128 min,7.7,None,John Woo,52949,None,None
+900,Marnie. Przyjaciółka ze snów,(2014),"Animation, Drama, Family",103 min,7.7,72,Hiromasa Yonebayashi,45306,0.77M,None
+901,Nebraska,(2013),Drama,115 min,7.7,86,Alexander Payne,121231,17.65M,None
+902,W kręgu miłości,(2012),"Drama, Music, Romance",111 min,7.7,70,Felix van Groeningen,42640,0.18M,None
+903,Mały Książę,(2015),"Animation, Adventure, Drama",108 min,7.7,70,Mark Osborne,65256,1.34M,None
+904,Czarny narcyz,(1947),Drama,101 min,7.7,86,None,26740,None,None
+905,Starsza pani znika,(1938),"Mystery, Thriller",96 min,7.7,98,Alfred Hitchcock,55786,None,None
+906,Podwójne życie Weroniki,(1991),"Drama, Fantasy, Music",98 min,7.7,86,Krzysztof Kieslowski,51721,2.00M,None
+907,Smak wiśni,(1997),Drama,95 min,7.7,80,Abbas Kiarostami,34709,0.31M,None
+908,Siostry Magdalenki,(2002),Drama,114 min,7.7,83,Peter Mullan,28103,4.89M,None
+909,Happy Together,(1997),"Drama, Romance",96 min,7.7,70,Kar-Wai Wong,32730,0.19M,None
+910,Eksperyment,(2001),"Drama, Thriller",120 min,7.7,59,Oliver Hirschbiegel,95455,0.14M,None
+911,Jules i Jim,(1962),"Drama, Romance",105 min,7.7,97,François Truffaut,43600,None,None
+912,Jabłka Adama,(2005),"Comedy, Crime, Drama",94 min,7.7,51,Anders Thomas Jensen,53317,0.00M,None
+913,Frost/Nixon,(2008),"Biography, Drama, History",122 min,7.7,80,Ron Howard,111191,18.59M,None
+914,Poza prawem,(1986),"Comedy, Crime, Drama",107 min,7.7,75,Jim Jarmusch,54257,1.44M,None
+915,Purpurowa róża z Kairu,(1985),"Comedy, Fantasy, Romance",82 min,7.7,75,Woody Allen,53882,10.63M,None
+916,Wyznania,(2010),"Drama, Thriller",106 min,7.7,None,Tetsuya Nakashima,41160,None,None
+917,Trio z Belleville,(2003),"Animation, Adventure, Comedy",80 min,7.7,91,Sylvain Chomet,56291,7.00M,None
+918,Sny,(1990),"Drama, Fantasy",119 min,7.7,None,None,28221,1.96M,None
+919,Opowieść wigilijna Muppetów,(1992),"Comedy, Drama, Family",85 min,7.7,64,Brian Henson,64991,27.28M,None
+920,Klient,(2016),"Drama, Thriller",124 min,7.7,85,Asghar Farhadi,63479,2.40M,None
+921,Key Largo,(1948),"Action, Crime, Drama",100 min,7.7,None,John Huston,43233,None,None
+922,Przygoda,(1960),"Drama, Mystery, Romance",144 min,7.7,None,Michelangelo Antonioni,31886,None,None
+923,Zielona dolina,(1941),"Drama, Family",118 min,7.7,88,John Ford,25789,None,None
+924,Tuż po weselu,(2006),Drama,120 min,7.7,78,Susanne Bier,36203,0.41M,None
+925,Nasza Ameryka,(2002),Drama,105 min,7.7,76,Jim Sheridan,43951,15.54M,None
+926,Hana-bi,(1997),"Crime, Drama, Romance",103 min,7.7,83,Takeshi Kitano,32344,0.23M,None
+927,Miłość i śmierć,(1975),"Comedy, War",85 min,7.7,89,Woody Allen,40119,None,None
+928,Strefa bezpieczeństwa,(2000),"Action, Drama, Thriller",110 min,7.7,58,Park Chan-wook,33124,None,None
+929,O dziewczynie skaczącej przez czas,(2006),"Animation, Adventure, Comedy",98 min,7.7,66,Mamoru Hosoda,69433,None,None
+930,Żywiciel,(2017),"Animation, Drama, Family",94 min,7.7,78,Nora Twomey,27556,0.31M,None
+931,Na krawędzi nieba,(2007),Drama,122 min,7.7,85,Fatih Akin,33066,0.74M,None
+932,Przeszłość,(2013),"Drama, Mystery",130 min,7.7,85,Asghar Farhadi,50280,1.33M,None
+933,Zelig,(1983),Comedy,79 min,7.7,None,Woody Allen,43487,11.80M,None
+934,Piła,(2004),"Horror, Mystery, Thriller",103 min,7.6,46,James Wan,451468,56.00M,None
+935,Harry Potter i Kamień Filozoficzny,(2001),"Adventure, Family, Fantasy",152 min,7.6,65,Chris Columbus,828882,317.58M,None
+936,Pewnego razu... w Hollywood,(2019),"Comedy, Drama",161 min,7.6,83,Quentin Tarantino,804561,142.50M,None
+937,American Psycho,(2000),"Crime, Drama, Horror",102 min,7.6,64,Mary Harron,681338,15.07M,None
+938,Inni,(2001),"Horror, Mystery, Thriller",101 min,7.6,74,Alejandro Amenábar,383848,96.52M,None
+939,Watchmen. Strażnicy,(2009),"Action, Drama, Mystery",162 min,7.6,56,Zack Snyder,571104,107.51M,None
+940,Co robimy w ukryciu,(2014),"Comedy, Horror",86 min,7.6,76,None,194609,3.33M,None
+941,Supersamiec,(2007),Comedy,113 min,7.6,76,Greg Mottola,614822,121.46M,None
+942,Piąty element,(1997),"Action, Adventure, Sci-Fi",126 min,7.6,52,Luc Besson,493740,63.54M,None
+943,Gwiezdne wojny: Część III - Zemsta Sithów,(2005),"Action, Adventure, Fantasy",140 min,7.6,68,George Lucas,826647,380.26M,None
+944,Superglina,(1987),"Action, Crime, Sci-Fi",102 min,7.6,70,Paul Verhoeven,273294,53.42M,None
+945,Życie biurowe,(1999),Comedy,89 min,7.6,68,Mike Judge,280927,10.82M,None
+946,Deadpool 2,(2018),"Action, Adventure, Comedy",119 min,7.6,66,David Leitch,621574,324.59M,None
+947,300,(2006),"Action, Drama",117 min,7.6,52,Zack Snyder,848159,210.61M,None
+948,Kung Fu Panda,(2008),"Animation, Action, Adventure",92 min,7.6,74,None,500607,215.43M,None
+949,Raport mniejszości,(2002),"Action, Crime, Mystery",145 min,7.6,80,Steven Spielberg,573271,132.07M,None
+950,Aż do piekła,(II) (2016),"Crime, Drama, Thriller",102 min,7.6,88,David Mackenzie,244501,27.01M,None
+951,Mucha,(1986),"Drama, Horror, Sci-Fi",96 min,7.6,79,David Cronenberg,196009,40.46M,None
+952,Strażnicy Galaktyki vol. 2,(2017),"Action, Adventure, Comedy",136 min,7.6,67,James Gunn,738399,389.81M,None
+953,Ptaki,(1963),"Drama, Horror, Mystery",119 min,7.6,90,Alfred Hitchcock,199958,11.40M,None
+954,Gwiezdny pył,(2007),"Adventure, Family, Fantasy",127 min,7.6,66,Matthew Vaughn,280371,38.63M,None
+955,O północy w Paryżu,(2011),"Comedy, Fantasy, Romance",94 min,7.6,81,Woody Allen,442016,56.82M,None
+956,Efekt motyla,(2004),"Drama, Sci-Fi, Thriller",113 min,7.6,30,None,510798,57.94M,None
+957,Mechanik,(2004),"Drama, Thriller",101 min,7.6,61,Brad Anderson,407804,1.08M,None
+958,Moneyball,(2011),"Biography, Drama, Sport",133 min,7.6,87,Bennett Miller,451152,75.61M,None
+959,Narodziny gwiazdy,(2018),"Drama, Music, Romance",136 min,7.6,88,Bradley Cooper,406849,215.29M,None
+960,Bogowie ulicy,(2012),"Action, Crime, Drama",109 min,7.6,68,David Ayer,262165,41.00M,None
+961,Kick-Ass,(2010),"Action, Comedy, Crime",117 min,7.6,66,Matthew Vaughn,583291,48.07M,None
+962,Prawdziwe męstwo,(2010),"Drama, Western",110 min,7.6,80,None,351751,171.24M,None
+963,Jak ukraść Księżyc,(2010),"Animation, Adventure, Comedy",95 min,7.6,72,None,570104,251.51M,None
+964,Genialny klan,(2001),"Comedy, Drama",110 min,7.6,76,Wes Anderson,307429,52.36M,None
+965,Mój kuzyn Vinny,(1992),"Comedy, Crime",120 min,7.6,68,Jonathan Lynn,136044,52.93M,None
+966,Cienka czerwona linia,(1998),"Drama, History, War",170 min,7.6,78,Terrence Malick,195887,36.40M,None
+967,Po godzinach,(I) (1985),"Comedy, Crime, Drama",97 min,7.6,90,Martin Scorsese,76887,10.60M,None
+968,Mulan,(1998),"Animation, Adventure, Comedy",87 min,7.6,71,None,306618,120.62M,None
+969,Wschodnie obietnice,(2007),"Crime, Drama, Thriller",100 min,7.6,83,David Cronenberg,255242,17.11M,None
+970,Pół na pół,(2011),"Comedy, Drama, Romance",100 min,7.6,72,Jonathan Levine,339476,35.01M,None
+971,Zabójcza broń,(1987),"Action, Crime, Thriller",109 min,7.6,68,Richard Donner,270476,65.21M,None
+972,"Gdzie jesteś, Amando?",(2007),"Crime, Drama, Mystery",114 min,7.6,72,Ben Affleck,283842,20.30M,None
+973,Wszystko gra,(2005),"Drama, Romance, Thriller",124 min,7.6,72,Woody Allen,224868,23.09M,None
+974,Wielki Mike,(2009),"Biography, Drama, Sport",129 min,7.6,53,John Lee Hancock,352727,255.96M,None
+975,Mad Max 2 - Wojownik szos,(1981),"Action, Adventure, Sci-Fi",96 min,7.6,77,George Miller,189235,12.47M,None
+976,Szklana pułapka 3,(1995),"Action, Adventure, Thriller",128 min,7.6,58,John McTiernan,400469,100.01M,None
+977,Raid,(2011),"Action, Crime, Thriller",101 min,7.6,73,Gareth Evans,213288,4.11M,None
+978,Księga dżungli,(1967),"Animation, Adventure, Comedy",78 min,7.6,65,Wolfgang Reitherman,193905,141.84M,None
+979,Mroczne wody,(2019),"Biography, Drama, History",126 min,7.6,73,Todd Haynes,96402,None,None
+980,Rushmore,(1998),"Comedy, Drama, Romance",93 min,7.6,86,Wes Anderson,194577,17.11M,None
+981,Mitchellowie kontra maszyny,(2021),"Animation, Action, Adventure",114 min,7.6,81,None,121384,None,None
+982,Niewidzialny człowiek,(1933),"Horror, Sci-Fi",71 min,7.6,87,James Whale,38635,None,None
+983,Ponyo,(2008),"Animation, Adventure, Comedy",101 min,7.6,86,Hayao Miyazaki,155610,15.09M,None
+984,21 gramów,(2003),"Crime, Drama, Thriller",124 min,7.6,70,Alejandro G. Iñárritu,243157,16.29M,None
+985,Ostatni król Szkocji,(2006),"Biography, Drama, History",123 min,7.6,74,Kevin Macdonald,193187,17.61M,None
+986,Searching,(III) (2018),"Drama, Mystery, Thriller",102 min,7.6,71,Aneesh Chaganty,176263,26.02M,None
+987,Sam,(2001),Drama,132 min,7.6,28,Jessie Nelson,153626,40.31M,None
+988,Lot 93,(2006),"Action, Drama, History",111 min,7.6,90,Paul Greengrass,109731,31.57M,None
+989,Buntownik bez powodu,(1955),Drama,111 min,7.6,89,Nicholas Ray,95954,None,None
+990,Co się wydarzyło w Madison County,(1995),"Drama, Romance",135 min,7.6,69,Clint Eastwood,86635,71.52M,None
+991,Stąd do wieczności,(1953),"Drama, Romance, War",118 min,7.6,85,Fred Zinnemann,49797,30.50M,None
+992,Barton Fink,(1991),"Comedy, Drama, Thriller",116 min,7.6,69,None,126863,6.15M,None
+993,25. godzina,(2002),Drama,135 min,7.6,69,Spike Lee,183007,13.06M,None
+994,Tajemnica Filomeny,(2013),"Biography, Comedy, Drama",98 min,7.6,77,Stephen Frears,102783,37.71M,None
+995,Długi postój na Park Avenue,(1974),"Action, Crime, Thriller",104 min,7.6,68,Joseph Sargent,33820,2.49M,None
+996,Blask,(1996),"Biography, Drama, Music",105 min,7.6,87,Scott Hicks,55894,35.81M,None
+997,Control,(2007),"Biography, Drama, Music",122 min,7.6,78,Anton Corbijn,67680,0.87M,None
+998,Bardzo długie zaręczyny,(2004),"Drama, Mystery, Romance",133 min,7.6,76,Jean-Pierre Jeunet,75283,6.17M,None
+999,Cela 211,(2009),"Action, Crime, Drama",113 min,7.6,None,Daniel Monzón,69828,None,None

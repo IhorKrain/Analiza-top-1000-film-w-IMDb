@@ -1,0 +1,483 @@
+---
+title: "Projekt z zakresu wizualizacji danych"
+author: "Ihor_Krainik"
+date: "2023-12-25"
+output: html_document
+---
+
+```{r setup, include=FALSE,echo=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+```{r,include=FALSE,echo=FALSE}
+library(ggplot2)
+library(tidyverse)
+library(dplyr)
+library(RColorBrewer)
+library(corrplot)
+library(kableExtra)
+library(ggcorrplot)
+library(factoextra)
+library(dbscan)
+```
+W tej bazie danych zawarte są informacje o filmach, przedstawione w postaci tabeli z 1000 wierszami i 11 kolumnami. Oto krótki opis każdej kolumny:
+
+X: Unikalny identyfikator filmu.
+name: Nazwa filmu .
+year: Rok premiery filmu .
+genre: Gatunek filmu. Warto zauważyć, że filmy mogą należeć do kilku gatunków.
+runtime: Czas trwania filmu w minutach .
+rating: Ocena filmu .
+metascore: Ocena Metascore  
+director: Reżyser filmu .
+votes: Liczba głosów. Oznacza ogólną popularność filmu.
+gross: Dochody z filmu w milionach dolarów 
+top: Ocena filmu wśród innych filmów w bazie .
+Analiza i wnioski:
+
+Rozkład gatunków:
+
+Analiza, które gatunki filmów są najbardziej popularne w bazie danych. To może pomóc w określeniu preferencji publiczności.
+Rozkład ocen:
+
+Badanie, jak są rozłożone oceny filmów. Można wyodrębnić średnią ocenę, najbardziej i najmniej popularne filmy.
+Korelacja między czasem trwania a oceną:
+
+Określenie, czy istnieje związek między czasem trwania filmu a jego oceną. Być może dłuższe filmy otrzymują wyższe oceny lub odwrotnie.
+Rozkład lat produkcji:
+
+Zbadanie, jak są rozłożone filmy według lat produkcji. To może pomóc w identyfikacji trendów w branży filmowej.
+Korelacja między dochodami a oceną:
+
+Sprawdzenie, czy istnieje związek między dochodami z filmu a jego oceną. Można ustalić, czy sukces kasowy zawsze koreluje z wysoką oceną.
+Top reżyserzy:
+
+Określenie reżyserów z największą liczbą filmów w bazie danych i ich średnią oceną. To może dostarczyć informacji o sukcesie prac reżyserów.
+```{r,echo=FALSE}
+dane <- read.csv("df.csv")
+```
+```{r,echo=FALSE,include=FALSE}
+dane[dane=="None"] <-NA
+colSums(is.na(dane))
+```
+
+```{r,echo=FALSE,include=FALSE}
+Change_data <- select(dane,-c("metascore","gross","top"))
+Change_data[Change_data=="None"]<-NA
+Change_data <- na.omit(Change_data)
+colSums(is.na(Change_data))
+```
+```{r,echo=FALSE}
+dane$year <- as.numeric(gsub("[^0-9]", "", dane$year))
+dane$runtime <- as.numeric(gsub("[^0-9]", "", dane$runtime))
+dane$gross <-as.numeric(gsub("M", "", dane$gross))
+dane$top <-as.numeric(dane$top)
+Change_data <- Change_data %>%
+  separate_rows(genre, sep = ",\\s*")
+Change_data <- distinct(Change_data)
+```
+```{r,echo=FALSE}
+library(DT)
+
+datatable(dane, options = list(pageLength = 5))
+```
+
+
+#Vizualization
+
+```{r,echo=FALSE}
+ggplot(dane, aes(x = runtime)) +
+  geom_histogram(binwidth = 10, fill = "blue", color = "black") +
+  scale_x_continuous(breaks = seq(0, max(dane$runtime), by = 20)) +
+  labs(title = "Histogram of Runtime",
+       x = "Runtime",
+       y = "Frequency")
+
+
+```
+
+Ten wykres przedstawia histogram czasu trwania filmów z bazy danych. Oś x reprezentuje czas trwania filmu, podczas gdy oś y przedstawia częstość występowania filmów w danym przedziale czasowym.
+
+Zakres czasu trwania:
+
+Najczęstszy zakres czasu trwania filmów wynosi od 90 do 130 minut. To sugeruje, że większość filmów w analizowanej bazie danych mieści się w tej długości.
+
+Co pozwala lepiej zrozumieć rozkład czasu trwania filmów w bazie danych, a wykres sugeruje, że większość filmów mieści się w standardowym zakresie czasu trwania, typowym dla większości produkcji filmowych.
+
+```{r,echo=FALSE}
+ggplot(dane, aes(x = rating)) +
+  geom_histogram(binwidth = 0.2, fill = "skyblue", color = "black") +
+  labs(title = "Histogram of Ratings",
+       x = "Rating",
+       y = "Frequency")
+
+```
+
+Ten wykres przedstawia histogram ocen filmów z bazy danych. Oś x reprezentuje oceny filmów, podczas gdy oś y przedstawia częstość występowania filmów w danym przedziale ocen.
+
+Większość filmów koncentruje się w zakresie ocen od 7.5 do 8.2. To sugeruje, że w analizowanej bazie danych przeważają filmy o ocenach znajdujących się w tym przedziale.
+Co pozwala lepiej zrozumieć, w jakim zakresie koncentrują się oceny filmów w bazie danych, a wykres sugeruje, że większość filmów otrzymuje oceny w określonym przedziale ocen, co może odzwierciedlać pewne tendencje w ocenach filmów w analizowanej bazie.
+
+```{r}
+ggplot(dane, aes(x = runtime, y = rating)) +
+  geom_point(color = "darkblue", size = 3, alpha = 0.7) +
+  geom_smooth(method = "loess", color = "darkred", se = FALSE, size = 1.2) +
+  labs(title = "Scatter Plot with Smoothed Line of Movie Ratings over Time",
+       x = "Runtime",
+       y = "Rating") +
+  theme_minimal() +
+  theme(plot.title = element_text(size = 16, face = "bold"),
+        axis.text = element_text(size = 12),
+        axis.title = element_text(size = 14, face = "bold"))+
+    scale_x_continuous(breaks = seq(0, max(dane$runtime), by = 50))
+```
+
+Ten wykres przedstawia punktowy wykres rozrzutu dla czasu trwania filmu (runtime) i ocen (rating) z bazy danych. Dodatkowo na wykresie znajduje się gładka krzywa (loess), która jest dopasowana do punktów. Oto kilka spostrzeżeń na temat tego wykresu:
+
+Tendencja czasu trwania a oceny:
+
+Wykres wskazuje, że dla filmów o czasie trwania od około 100 do 200 minut oceny zazwyczaj rosną. Jednak po osiągnięciu pewnego punktu (około 200 minut), zaczynają one maleć.
+Gładka krzywa (loess):
+
+Gładka krzywa (loess) jest używana do zobrazowania ogólnej tendencji w danych. Czerwona krzywa na wykresie sugeruje, że istnieje pewna nieliniowa zależność między czasem trwania filmu a ocenami.
+Rozrzut punktów:
+
+Punkty na wykresie reprezentują poszczególne filmy. Ich rozmieszczenie ukazuje, jak różne filmy o różnych czasach trwania otrzymują różne oceny.
+
+Ten wykres może sugerować, że widzowie mogą preferować filmy o umiarkowanym czasie trwania, a bardzo długie filmy mogą być oceniane niżej. Jednak należy pamiętać, że to tylko obserwacje na podstawie dostępnych danych i analiza ta nie uwzględnia innych czynników, które mogą wpływać na oceny filmów.
+
+```{r,echo=FALSE}
+genre_counts <- Change_data %>%
+  separate_rows(genre, sep = ",\\s*") %>%
+  count(genre) %>%
+  mutate(percent = n / sum(n) * 100)
+```
+```{r}
+table <- genre_counts %>%
+  mutate(n = sprintf("%d (%.1f%%)", n, percent)) %>%
+  select(-percent) %>%
+  kable("html") %>%
+  kable_styling(full_width = FALSE, position = "center") %>%
+  add_header_above(c("Genre" = 1, "Count" = 1)) %>%
+  column_spec(1, bold = TRUE)
+
+table
+```
+```{r,echo=FALSE}
+
+
+genre_counts <- Change_data %>%
+  separate_rows(genre, sep = ",\\s*") %>%
+  group_by(genre) %>%
+  summarize(count = n()) %>%
+  filter(count > 100)
+
+all_colors <- brewer.pal(12, "Set3")
+additional_colors <- brewer.pal(9, "Paired")
+
+all_colors <- c(all_colors, additional_colors)
+
+total_count <- sum(genre_counts$count)
+
+ggplot(genre_counts, aes(x = "", y = count, fill = genre)) +
+  geom_bar(stat = "identity", width = 1) +
+  coord_polar("y") +
+  labs(title = "Pie Chart of Most Popular Movie Genres",
+       fill = "Genre") +
+  scale_fill_manual(values = setNames(all_colors, unique(genre_counts$genre))) +
+  geom_text(aes(label = paste0(round(count/total_count * 100, 1), "%")),
+            position = position_stack(vjust = 0.5), size = 3)
+```
+
+Tabela zawiera informacje na temat gatunków filmów, ich ilości i procentowego udziału
+Wykres kołowy ilustruje, jakie gatunki filmów są **najbardziej popularne** w analizowanej bazie danych, a tabela dostarcza liczbowych danych na temat tego rozkładu. Razem stanowią one informatywny przegląd popularności różnych gatunków w moim projekcie.
+
+Drama dominuje:
+
+Gatunek "Drama" zajmuje znaczącą część wykresu, stanowiąc ponad 30% wszystkich analizowanych filmów. Jest to najbardziej popularny gatunek w bazie danych.
+Zróżnicowanie gatunków:
+
+Pomimo dominacji dramatu, na wykresie widać zróżnicowanie gatunków. Komedia, kryminał, akcja, przygoda i thriller również mają swoje znaczące udziały procentowe.
+Wysoka popularność gatunków rozrywkowych:
+
+Gatunki związane z rozrywką, takie jak komedia, akcja i przygoda, zdają się cieszyć dużym zainteresowaniem, co sugeruje, że filmy zapewniające rozrywkę są popularne wśród widzów.
+Niska popularność biografii:
+
+Gatunek "Biografia" ma stosunkowo niski udział procentowy, wynoszący około 4.4%. Może to sugerować, że filmy biograficzne nie są tak powszechne jak inne gatunki.
+Wartość procentowa jako miara popularności:
+
+Procentowy udział każdego gatunku umożliwia porównywanie ich popularności względem siebie. Jest to przydatne narzędzie do zrozumienia preferencji widowni w analizowanej bazie danych.
+Podsumowując, wykres kołowy oferuje wizualne spojrzenie na rozkład gatunków filmów w analizowanej bazie danych, co pozwala na szybkie zrozumienie, które gatunki są najbardziej popularne, a które mogą być mniej reprezentowane.
+```{r,echo=FALSE}
+Change_data <- Change_data %>%
+  separate_rows(genre, sep = ",\\s*")
+ggplot(Change_data, aes(y = genre, x = rating, fill = genre)) +
+  geom_boxplot(alpha = 0.7, outlier.colour = "red", outlier.shape = 16, outlier.size = 2) +
+  labs(title = "Boxplot of Rating by Genre",
+       x = "Rating",
+       y = "Genre") +
+  theme_minimal() +
+  theme(legend.position = "none", axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+Na tym wykresie można zauważyć, że:
+
+Animacja (Animation): Ma najniższą medianę spośród wszystkich gatunków, co może wskazywać na stosunkowo niższe oceny w porównaniu z innymi gatunkami.
+Wojenny (War): Posiada najwyższą medianę, co wskazuje, że ogólnie filmy w gatunku "Wojenny" otrzymują wyższe oceny w porównaniu z innymi gatunkami.
+Ogólna różnica między gatunkami: Pomimo różnic w medianach, zauważa się znaczne nakładanie się pudełek, co może wskazywać, że w obrębie każdego gatunku istnieje różnorodność ocen.
+Tak więc, wykres pudełkowy umożliwia wizualne porównanie rozkładu ocen w różnych gatunkach, ukazując zarówno ogólne tendencje, jak i potencjalne różnice w ocenach filmów.
+
+```{r,echo=FALSE}
+ggplot(Change_data, aes(x = genre, y = rating, fill = genre)) +
+  geom_violin(trim = FALSE, scale = "width", width = 0.7) +
+  geom_jitter(shape = 16, position = position_jitter(0.2), alpha = 0.7) +
+  labs(title = "Violin Plot of Ratings by Genre",
+       x = "Genre",
+       y = "Rating") +
+  theme_minimal() +
+  theme(legend.position = "none", axis.text.x = element_text(angle = 45, hjust = 1))
+
+```
+
+Na tym wykresie zauważalne są następujące elementy:
+
+Rozkład ocen w gatunkach:
+
+Wykres skrzypiec ukazuje, jak różnią się rozkłady ocen w poszczególnych gatunkach filmowych.
+Dla niektórych gatunków (np. Drama) skrzynia jest szeroka, co oznacza zróżnicowany zakres ocen, a dla innych (np. Animacja, Wojenny) skrzynia jest węższa, co wskazuje na bardziej skupione oceny.
+Punkty rozrzutu:
+
+Punkty rozrzutu pozwalają zauważyć, gdzie znajdują się poszczególne oceny w obrębie każdego gatunku.
+Jest więcej punktów w obszarze Drama, co sugeruje większą ilość ocen w tym gatunku w porównaniu do innych.
+W ten sposób wykres skrzypiec prezentuje informacje o rozkładzie ocen w poszczególnych gatunkach filmowych, jednocześnie uwzględniając zarówno ogólne tendencje, jak i różnice między nimi.
+
+
+```{r,echo=FALSE}
+dan <- select(dane, -top)
+dan <- na.omit(dan)
+
+ggplot(dan, aes(x = rating, y = votes)) +
+  geom_point(color = "skyblue", size = 4, alpha = 0.7) +
+  geom_smooth(method = "lm", se = FALSE, color = "red", size = 1.5) +
+  labs(title = "Scatter plot: Rating vs. Votes",
+       x = "Rating",
+       y = "Votes") +
+  theme_minimal() +
+  theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
+        panel.background = element_blank(), axis.line = element_line(colour = "black")) +
+  scale_y_continuous(labels = scales::comma) 
+```
+
+Na wykresie zauważalne są następujące elementy:
+
+Linia trendu:
+
+Czerwona linia trendu wskazuje ogólny kierunek wzrostu. To sugeruje, że filmy otrzymujące wyższe oceny często zdobywają również więcej głosów.
+Konsekwentny wzrost:
+
+Zauważalny jest stały wzrost liczby głosów wraz z wyższymi ocenami. Oznacza to, że filmy z wyższymi ocenami zdają się przyciągać większą uwagę i generować więcej opinii.
+W rezultacie wykres punktowy "Ocena vs. Głosy" pomaga zobaczyć ogólny trend między ocenami a popularnością filmów, co może być istotne w analizie danych filmowych
+```{r,echo=FALSE}
+genre_counts <- dan %>%
+  separate_rows(genre, sep = ",\\s*")%>%
+  filter(gross>=5)
+ggplot(genre_counts, aes(x = genre, y = gross, fill = genre)) +
+  geom_boxplot(alpha = 0.7, outlier.colour = "red", outlier.shape = 16, outlier.size = 2) +
+  labs(title = "Boxplot of Gross by Genre",
+       x = "Genre",
+       y = "Gross (milions)") +
+  theme_minimal() +
+  theme(legend.position = "none", axis.text.x = element_text(angle = 45, hjust = 1))
+
+```
+
+Analiza wykresu:
+
+Na wykresie zauważalne są następujące obserwacje:
+
+Największe przychody:
+
+Gatunki filmów "Fantasy" i "Przygodowy" (Adventure) wykazują największe przychody, co wskazuje, że filmy z tych kategorii finansowo się wyróżniają.
+Najmniejsze przychody:
+
+Gatunki filmów "Western" i "Film-noir" wykazują najmniejsze przychody, sugerując, że filmy z tych gatunków mogą mieć mniejszą popularność w kontekście dochodów.
+Ten wykres pudełkowy pozwala porównać rozkłady przychodów między różnymi gatunkami filmowymi, identyfikując zarówno ogólne tendencje, jak i potencjalne wartości odstające.
+
+```{r,echo=FALSE}
+dane <- dane%>% na.omit()%>%
+  filter(top<=50)
+movies_count <- dane %>%
+  group_by(director) %>%
+  summarise(movie_count = n()) 
+
+ggplot(movies_count, aes(x = director, y = movie_count, fill = director)) +
+  geom_bar(stat = "identity", width = 0.7, alpha = 0.7) +
+  labs(title = "Top 50 films director count",
+       x = "Director",
+       y = "Movie Count") +
+  theme_minimal() +
+  theme(legend.position = "none", axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+Analiza wykresu:
+
+Na wykresie można zauważyć:
+
+Najbardziej produktywni reżyserzy:
+Niektórzy reżyserzy mają większą liczbę filmów wśród najlepszych 50.
+Różnorodność reżyserów:
+Liczba filmów przypadająca na poszczególnych reżyserów może być zróżnicowana, co odzwierciedla różnorodność talentów wśród twórców filmowych.
+Ten wykres słupkowy pozwala zorientować się, którzy reżyserzy mają większy wpływ na zestawienie najlepszych 50 filmów, a także pokazuje stopień ich produktywności w tym kontekście.
+
+
+
+```{r,echo=FALSE}
+numeric_columns <- select_if(dan, is.numeric)
+numeric_columns <- select(numeric_columns , -"X")
+cor_matrix <- cor(numeric_columns)
+p_mat_example<-cor_pmat(numeric_columns)
+ggcorrplot(corr=cor_matrix, lab=TRUE, p.mat=p_mat_example)
+
+max_corr_value <- max(cor_matrix[upper.tri(cor_matrix, diag = FALSE)])
+max_corr_indices <- which(cor_matrix == max_corr_value, arr.ind = TRUE)
+
+cat("Maksymalna dodatnia korelacja:", max_corr_value, "\n")
+cat("Odpowiadające kolumny:", rownames(cor_matrix)[max_corr_indices[1]], "i", colnames(cor_matrix)[max_corr_indices[2]], "\n")
+min_corr_value <- min(cor_matrix)
+min_corr_indices <- which(cor_matrix == min_corr_value, arr.ind = TRUE)
+
+cat("Maksymalna ujemna korelacja:", min_corr_value, "\n")
+cat("Odpowiadające kolumny:", rownames(cor_matrix)[min_corr_indices[1]], "i", colnames(cor_matrix)[min_corr_indices[2]], "\n")
+```
+Maksymalna dodatnia korelacja:
+
+Największa dodatnia korelacja wynosi 0.6180582.
+Odpowiadające tej korelacji kolumny to "votes" (liczba głosów) i "rating" (ocena filmu).
+Wartości te wskazują, że istnieje umiarkowana pozytywna zależność między liczbą głosów a oceną filmu – filmy zwykle z wyższymi ocenami zdobywają więcej głosów.
+Maksymalna ujemna korelacja:
+
+Największa ujemna korelacja wynosi -0.2002686.
+Odpowiadające tej korelacji kolumny to "rating" (ocena filmu) i "year" (rok produkcji).
+Wartości te wskazują na słabą ujemną zależność między oceną filmu a rokiem produkcji – filmy starsze niekoniecznie otrzymują niższe oceny.
+
+Clustering
+
+```{r,echo=FALSE}
+dane_cluster <- select(dan,-c("name","X","genre","metascore","director","gross"))
+```
+```{r,echo=FALSE}
+dane_kmeans <- scale(dane_cluster)
+```
+
+```{r,echo=FALSE}
+head(dane_cluster)
+```
+
+```{r,echo=FALSE}
+clusters_wss <- fviz_nbclust(dane_kmeans,kmeans,method="wss")
+clusters_wss
+clusters_silhouette <- fviz_nbclust(dane_kmeans,kmeans,method="silhouette")
+clusters_silhouette
+```
+
+Optymalna liczba klastrów to trzy.
+Ale korelacja jest równa 0.3 , więc jest słabą
+
+```{r,echo=FALSE}
+optimal_cluster <- kmeans(dane_kmeans,centers=3,iter.max=25)
+
+fviz_cluster(optimal_cluster,data=dane_kmeans,labelsize=0,geom="points")
+dane_kk <- dane_cluster
+dane_kk$Cluster <- optimal_cluster$cluster
+dane_kk$Cluster <- as.factor(dane_kk$Cluster)
+```
+```{r,echo=FALSE}
+ggplot(dane_kk, aes(x = Cluster, y = votes, fill = Cluster)) +
+  geom_boxplot() +
+  scale_y_continuous(labels = scales::comma) +
+  labs(title = "Box Plot of Votes by Cluster",
+       x = "Cluster",
+       y = "Number of Votes") +
+  theme_minimal()
+
+```
+
+Na wykresie pudełkowym można zauważyć następujące obserwacje:
+
+Klastry i liczba głosów:
+Pierwszy klaster (Cluster 1) wykazuje najniższą medianę liczby głosów, która wynosi około 100 tysięcy.
+Drugi klaster (Cluster 2) prezentuje średnio około 1.2 miliona głosów.
+Trzeci klaster (Cluster 3) ma medianę w okolicy 300 tysięcy głosów.
+Wykres sugeruje, że klastry różnią się pod względem liczby głosów, a szczególnie drugi klaster wydaje się charakteryzować znacznie wyższą liczbą głosów w porównaniu do pozostałych. Dalsza analiza klastrów i ich cech może pomóc w zrozumieniu, dlaczego występują takie różnice.
+
+```{r,echo=FALSE}
+cluster_summary <- dane_kk %>%
+  group_by(Cluster) %>%
+  summarize(mean_votes = mean(votes),
+            median_votes = median(votes),
+            sd_votes = sd(votes))
+
+# Вывод результатов
+print(cluster_summary)
+```
+
+
+```{r,echo=FALSE}
+ggplot(dane_kk, aes(x = Cluster, y = rating, fill = as.factor(Cluster))) +
+  geom_boxplot() +
+  labs(title = "Box Plot of Rating by Cluster",
+       x = "Cluster",
+       y = "Rating") +
+  theme_minimal()
+```
+
+
+```{r,echo=FALSE}
+ggplot(dane_kk, aes(x = rating, fill = as.factor(Cluster))) +
+  geom_histogram(binwidth = 0.1, position = "identity", alpha = 0.7) +
+  labs(title = "Histogram of Rating by Clusters",
+       x = "Rating",
+       y = "Frequency") +
+  scale_fill_manual(values = c("#1b9e77", "#d95f02", "#7570b3"))+
+  theme_minimal()
+```
+
+Histogram ilustruje, że różne klastry mają różne rozkłady ocen. Trzeci klaster obejmuje największą liczbę filmów, ale zwykle uzyskuje niższe oceny. Drugi klaster, mimo mniejszej liczby filmów, charakteryzuje się wyższymi ocenami. Pierwszy klaster zajmuje pośrednią pozycję pod względem zarówno liczby filmów, jak i rozkładu ocen. Dalsza analiza cech filmów w poszczególnych klastrach może dostarczyć bardziej szczegółowych informacji na ten temat.
+
+```{r,echo=FALSE}
+ggplot(dane_kk, aes(x = votes, fill = as.factor(Cluster))) +
+  geom_histogram(binwidth = 50000, position = "identity", alpha = 0.7) +
+  labs(title = "Histogram of Votes byClusters",x = "Votes", y = "Frequency") +scale_x_continuous(labels = scales::comma)+
+  scale_fill_manual(values = c("#1b9e77", "#d95f02", "#7570b3"))+
+  theme_minimal()
+```
+
+Na podstawie dostępnych wykresów i analizy klastrów można wysnuć pewne wnioski dotyczące różnic między nimi. Poniżej przedstawiam kilka ogólnych spostrzeżeń:
+
+Cluster 1:
+
+Średnia liczba głosów (votes), ocen (rating) oraz czas trwania filmów (runtime).
+Zrównoważony rozkład gatunków filmów, bez wyraźnej dominacji jednego gatunku.
+Oceny filmów oscylują wokół 8.
+Cluster 2:
+
+Najwyższa średnia ocen filmów (rating).
+Najkrótsze filmy pod względem czasu trwania (runtime).
+Dominacja filmów o gatunkach, które przypuszczalnie cieszą się dużą popularnością lub uznaniem krytyków.
+Wyraźne skupienie w wyższych zakresach ocen, z mediana ocen około 8.4.
+Cluster 3:
+
+Największa liczba filmów w tym klastrze.
+Najdłuższe filmy pod względem czasu trwania (runtime).
+Znacznie niższe oceny filmów w porównaniu do Cluster 2, ale wyższe niż w Cluster 1.
+Zróżnicowany rozkład gatunków, ale z pewnym skupieniem w gatunkach, które mogą przyciągać różne grupy widzów.
+Ogólne obserwacje:
+
+Istnieje zróżnicowanie między klastrami zarówno pod względem liczby filmów, jak i ich cech numerycznych.
+Cluster 2 wydaje się zawierać filmy o wyjątkowo wysokich ocenach, ale jest on najmniejszy pod względem liczby filmów.
+Cluster 3, choć zawiera najwięcej filmów, charakteryzuje się niższymi ocenami w porównaniu do Cluster 2.
+
+**Ogólne Wnioski**
+Analiza danych filmowych pozwoliła na zrozumienie rozkładu cech, identyfikację trendów oraz zależności między różnymi zmiennymi. Wprowadzenie analizy klastrów pozwoliło na odkrycie trzech wyraźnie zróżnicowanych grup filmów. Dalsze badania, w tym testy statystyczne, mogą dostarczyć bardziej precyzyjnych informacji na temat różnic między klastrami oraz potwierdzenia wykrytych wzorców.
+
+
+
