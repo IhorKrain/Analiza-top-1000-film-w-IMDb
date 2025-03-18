@@ -16,7 +16,7 @@ Napisałem skrypt do pobierania danych dla tej wizualizacji w języku Python, al
 W projekcie wykorzystuję różne techniki analizy danych, takie jak analiza korelacji, grupowanie (klasteryzacja) oraz różne metody eksploracji danych w celu znalezienia ukrytych wzorców i zależności.
 
 ## Uruchomienie projektu
-1. Interaktywnie eksploruj wizualizację.
+Interaktywnie eksploruj wizualizację.
 
 ## Autor
 Ihor Krainik
